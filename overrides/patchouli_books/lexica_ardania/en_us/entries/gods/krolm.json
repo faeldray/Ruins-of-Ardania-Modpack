@@ -20,6 +20,17 @@
 			"recipe": "ancientwarfare:core/manual",
 			"title": "The Treatise",
 			"text": "Note: Researching takes quite some time but it can be sped up by giving a <thing>worker</> a <item>quill</> and assigning them to the <item>research station</>."
+		},
+		{
+			"type": "text",
+			"title": "Tribal Armor",
+			"text": "A sliver of Krolm's rage has been channeled into the <item>Tribal Armor</> set. It grants the wearer with <idea>increased attack speed and higher jumping abilities</>. The armour also grants a special activated ability that gives the wearer <thing>increased strength, speed, and health regeneration while slowing down nearby enemies</>."
+		},
+		{
+			"type": "image",
+			"images": [
+				"lexica_ardania:textures/gear_tribal.png"
+			]
 		}
 	]
 }

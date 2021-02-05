@@ -9,55 +9,54 @@
 		},
 		{
 			"type": "text",
-			"text": "<li>Crops grown on fields do not need to be violently ripped out of the ground and replanted in order to produce more. Harvest them gently and the remaining roots will regrow on their own.<li>If you gather wild bees from a hive and place them in an apiary, they will increase the growth of nearby plants. The bees will reproduce on their own, and the more bees in an apiary, the greater the growth."
-		},
-		{
-			"type": "text",
-			"text": "<li>Mixing bonemeal with dirt will create Fertile Soil, which is superior to simply tilling the ground. It doesn't require water to stay hydrated, it can't be trampled, and sugar cane can grow on it without water nearby.<li>There are a variety of fruit trees growing in the wild that can provide small amounts of sustenance. Its fruits can be picked directly from its leaves or will occasionally fall on the ground when it has ripened."
+			"title": "Gentle Harvesting",
+			"text": "Crops grown on fields do not need to be violently ripped out of the ground and replanted in order to produce more. Harvest them gently and the remaining roots will regrow on their own. <ooc>(Most crops can be harvested just by right-clicking on them.)</>"
 		},
 		{
 			"type": "crafting",
-			"text": "Over the millenia, Ardanians have come up with a preparation method that involves placing a variety of ingredients between two slices of bread. They call this a \"sandwich\". This strange culinary creation needs to be made on a sandwich station.",
+			"recipe": "rustic:apiary",
+			"text": "If you gather wild <item>bees</> from a <item>hive</> and place them in an <item>apiary</>, they will increase the growth of nearby plants. The bees will reproduce on their own, and the more bees in an apiary, the greater the growth. The resulting <item>honeycomb</> can be crushed into liquid <item>honey</>."
+		},
+		{
+			"type": "crafting",
+			"recipe": "rustic:fertile_soil",
+			"text": "Mixing bonemeal with dirt will create <item>Fertile Soil</>, which is superior to simply tilling the ground. It doesn't require water to stay hydrated, it can't be trampled, and sugar cane can grow on it without water nearby."
+		},
+		{
+			"type": "text",
+			"title": "Fruit Trees",
+			"text": "There are a variety of <thing>fruit trees</> growing in the wild that can provide small amounts of sustenance. Their fruits can be picked directly from their leaves or will occasionally fall on the ground when it has ripened."
+		},
+		{
+			"type": "image",
+			"images": [
+				"lexica_ardania:textures/fruit_trees.png"
+			]
+		},
+		{
+			"type": "crafting",
+			"text": "Over the millenia, Ardanians have come up with a preparation method that involves placing a variety of ingredients between two slices of bread. They call this a <thing>\"sandwich\"</>. This strange culinary creation needs to be made on a <item>sandwich station</>.",
 			"recipe": "culinaryconstruct:sandwich_station"
 		},
 		{
 			"type": "crafting",
-			"text": "There are crops and herbs that are unique to Ardania, such as tomatoes and chili peppers. Some can be used as ingredients for sandwiches and others can be used to brew potions and alcohol. More information is available in the Almanac.",
+			"text": "There are <thing>crops and herbs</> that are unique to Ardania, such as <item>tomatoes</> and <item>chili peppers</>. Some can be used as ingredients for <item>sandwiches</> and others can be used to <idea>brew potions and alcohol</>. More information is available in the <item>Almanac</>.",
 			"recipe": "rustic:almanac"
 		},
 		{
 			"type": "crafting",
-			"text": "Suspicious soup is one of the first foods that you can make that can have magical properties. Beware though that sometimes it also has negative side effects.",
+			"text": "<item>Suspicious soup</> is one of the first foods that you can make that can have magical properties. Be aware though that <idea>sometimes it also has negative side effects</>.",
 			"recipe": "charm:suspicious_soup"
 		},
 		{
+			"type": "spotlight",
+			"item": "futuremc:suspicious_stew",
+			"text": "<item>Suspicious stew</> similarly can have positive or negative magical effects but these are more predictable than the ones that come from the soup."
+		},
+		{
 			"type": "crafting",
-			"title": "Mystical Food",
-			"text": "Ordinary food can be infused with magical properties with the use of a Mystical Grill. To operate the grill, it requires a cauldron of water underneath it, and a heat source (magma block or fire) under the cauldron.",
-			"recipe": "pvj:mystical_grill"
-		},
-		{
-			"type": "multiblock",
-			"title": "Mystical Grill Setup",
-      "multiblock": {
-        "pattern": [
-          [ "G" ],
-          [ "0" ],
-          [ "M" ]
-        ],
-        "mapping": {
-          "G": "pvj:mystical_grill",
-          "0": "minecraft:cauldron",
-          "M": "minecraft:magma"
-        },
-        "symmetrical": true,
-        "offset"     : [0, 0, 0],
-        "view_offset": [0, 0, 0]
-      }
-		},
-		{
-			"type": "text",
-			"text": "Once the grill has been properly assembled, place 5 netherwart and 1 unstable essence on it <ooc>(right click the grill while holding the item)</>, and then one of the following: raw porkchop, raw beef, raw chicken, raw mutton, raw rabbit, raw cod, raw salmon, or potato. The grill can only cook one food item at a time, and takes 3 minutes to cook. The result is a piece of food that has been infused with two random beneficial potion effects."
+			"recipe": "cyclicmagic:item.tool_harvest_crops_1",
+			"text": "A <item>garden scythe</> can be used to quickly harvest a large area of crops at once."
 		}
 	]
 }

@@ -46,7 +46,7 @@ recipes.addShaped("ct_if_tidearrow", <iceandfire:sea_serpent_arrow> * 2, [[<ore:
 
 // Iron plates
 recipes.remove(<thaumcraft:plate:1>);
-recipes.addShapeless("ct_iron_plate", <thaumcraft:plate:1>, [<embers:plate_iron>, <embers:tinker_hammer>.anyDamage().transformDamage()]);
+recipes.addShapeless("ct_iron_plate", <thaumcraft:plate:1>, [<embers:plate_iron>, <embers:tinker_hammer>.anyDamage().reuse()]);
 
 // Saddle
 recipes.addShaped("ct_saddle", <minecraft:saddle>, [[<ore:leather>, <ore:leather>, <ore:leather>], [<ore:leather>, <ore:ingotIron>, <ore:leather>], [<ore:ingotIron>, null, <ore:ingotIron>]]);

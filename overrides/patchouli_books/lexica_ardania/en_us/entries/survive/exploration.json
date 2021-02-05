@@ -9,57 +9,58 @@
 		},
 		{
 			"type": "text",
-			"text": "<li>A magical map has been provided to all adventurers. You will find that you can use it to map the surrounding area and mark any points of interest. <ooc>(This is the minimap. You can also open a world map with <key='gui.xaero_open_map'>.)</><li>You will come across many structures in your travels. Some can simply provide shelter for a weary traveller while others are filled to the brim with monsters and treasure."
+			"text": "A magical map has been provided to all adventurers. You will find that you can use it to map the surrounding area and mark any points of interest. <ooc>(This is the minimap. You can also open a world map with <key='gui.xaero_open_map'>. The waypoints GUI can be accessed with <key='gui.xaero_waypoints_key'>.)</>"
 		},
 		{
 			"type": "crafting",
-			"text": "<li>A sleeping bag can be crafted and used sleep safely through a night.",
-			"recipe": "cyclicmagic:item.sleeping_mat"
+			"text": "A sleeping bag can be crafted and used sleep safely through a night. Coloured variants are also available.",
+			"recipe": "comforts:sleeping_bag_white"
 		},
 		{
 			"type": "crafting",
-			"text": "<li>There are a few hooks that can be used to reach hard-to-reach places. You may wish to start with a wooden or iron hook.",
+			"text": "To sleep through the day, craft a hammock and attach it to blocks placed 4 blocks apart using a pair of <item>rope and nails</>. The hammock is also available in different colours.",
+			"recipe": "comforts:hammock_white"
+		},
+		{
+			"type": "crafting",
+			"text": "There are a few hooks that can be used to reach hard-to-reach places. You may wish to start with a wooden or iron hook.",
 			"recipe": "hooked:wood_hook"
 		},
 		{
 			"type": "crafting",
-			"text": "<li>There exists a strange apple that allows one to travel up slopes without needing to constantly jump.",
+			"text": "There exists a strange apple that allows one to travel up slopes without needing to constantly jump.",
 			"recipe": "cyclicmagic:item.food_step"
 		},
 		{
 			"type": "crafting",
-			"text": "<li>An adventurer looking for a particular biome will find that a regular compass can be morphed into a nature compass.",
+			"text": "An adventurer looking for a particular biome will find that a regular compass can be morphed into a nature compass.",
 			"recipe": "naturescompass:natures_compass"
 		},
 		{
 			"type": "text",
-			"text": "<li>The caves in Ardania exist in a massive underground network, with tunnels extending for miles and criss-crossing one another often. It is very easy to get lost but you were all but guaranteed to come across something interesting.<li>Some villages have a building with walls made of polished diorite that has within it a teleporter to a labyrinthine dungeon dimension.This dimension is the remnants of the life's work of the wizard Daedalus."
+			"text": "The caves in Ardania exist in a massive underground network, with tunnels extending for miles and criss-crossing one another often. It is very easy to get lost but you were all but guaranteed to come across something interesting.<p>You will come across many structures in your travels. Some can simply provide shelter for a weary traveller while others are filled to the brim with monsters and treasure."
 		},
 		{
 			"type": "text",
-			"text": "<li>While you might be familiar with the Nether dimension and how to reach it, there is a complementary dimension called the Aether that can be accessed in Ardania. The portal for the Aether is built with glowstone and activated by a bucket of water. If you do decide to venture into this realm, I hope that you are not afraid of heights."
+			"text": "Wizard shrines should be given a wide berth until you are prepared for them. They are protected by 3 evil wizards who will erect an impassible dome that will prevent you from escaping until you have dealt with them. The treasure that the chests contain though is well worth the effort."
 		},
 		{
-			"type": "multiblock",
-			"text": "This portal frame can be any size but this is the minimum size required.",
-      "multiblock": {
-        "pattern": [
-          [ " OO " ],
-          [ "OPPO" ],
-          [ "OPPO" ],
-          [ "OPPO" ],
-          [ " O0 " ]
-        ],
-        "mapping": {
-          " ": "ANY",
-          "0": "minecraft:glowstone",
-          "O": "minecraft:glowstone",
-          "P": "AIR"
-        },
-        "symmetrical": true,
-        "offset"     : [0, 0, 0],
-        "view_offset": [0, 0, 0]
-      }
-    }
+			"type": "image",
+			"text": "Beware the glowing chest!",
+			"images": [
+				"lexica_ardania:textures/wizard_shrine.png"
+			]
+		},
+		{
+			"type": "text",
+			"text": "Some villages have a building with walls made of polished diorite that has within it a teleporter to a labyrinthine dungeon dimension. This dimension is the remnants of the life's work of the wizard Daedalus the Delirious. One should be extremely cautious about entering this dimension. The portal is only active for a short time, drops you in a random location, and you must find a return portal to leave."
+		},
+		{
+			"type": "image",
+			"text": "Right-click the triangle block to activate the portal",
+			"images": [
+				"lexica_ardania:textures/labyrinth_portal.png"
+			]
+		}
 	]
 }

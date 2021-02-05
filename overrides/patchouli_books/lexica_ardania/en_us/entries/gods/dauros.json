@@ -64,11 +64,23 @@
 		},
 		{
 			"type": "text",
+			"title": "Coding Monks of Psi",
 			"text": "It is unfortunate that Monks are now a thing of the past. However, a new order rose out of its ashes, the <thing>Order of Psi</>. This study of programming (AKA coding), which had been lost for centuries, was discovered to hold powers very similar to that of Monks. In hindsight, this should have been obvious, since it is well known that programming is the most orderly field of study. Thus those who use it gain Dauros's favor."
 		},
 		{
 			"type": "text",
 			"text": "And so it was that the <thing>Coding Monks of Psi</> have been able to engrave functions onto specially-made items. These items can be worn and wielded to great effect, allowing the creator to cast spells of their own making. <ooc>(The keybind to access the Psi tutorial is <key='psimisc.keybind'>.)</>"
+		},
+		{
+			"type": "text",
+			"title": "Scale Armor of Paladins",
+			"text": "Devout followers of Dauros wishing to be like the paladins of old can forge <item>Scale armor</>, which while worn will have the benefits of <idea>damage resistance and health boost at the cost of decreased speed</>. It also has a special ability that can be activated to become <thing>invulnerable for a short period of time</>."
+		},
+		{
+			"type": "image",
+			"images": [
+				"lexica_ardania:textures/gear_scale.png"
+			]
 		}
 	]
 }

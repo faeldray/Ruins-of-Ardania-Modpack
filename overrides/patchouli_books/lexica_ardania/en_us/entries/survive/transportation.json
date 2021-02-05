@@ -1,0 +1,44 @@
+{
+	"name": "Transportation",
+	"icon": "astikorcarts:cargocart",
+	"category": "survive",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Before the Fall, Ardania was a massive kingdom that could take weeks if not months to cross. And so its inhabitants created many magical and non-magical travel methods."
+		},
+		{
+			"type": "text",
+			"title": "Equine mounts",
+			"text": "The simplest form of transportation is of course the humble <thing>horse</>. Adventurers will find that the people of Ardania have come up with ways to make them more useful and not so humble. There are other creatures that may also be used as mounts including <thing>dogs, chocobos, hippogriffs, and even dragons</>. More information about all of these creatures (including horses) can be found in the <a='beasts'>Beasts and Monsters</a> section."
+		},
+		{
+			"type": "crafting",
+			"recipe": "astikorcarts:cargocart",
+			"title": "Cart for storage",
+			"text": "A <item>cart</> can be attached to a mount and carry both items and another adventurer. <ooc>(Attach a mount to carts by pressing <key='astikorcarts.desc'> while mounted. <key='use'> on the cart to mount it, <key='sneak'>+<key='use'> to open the inventory)</>"
+		},
+		{
+			"type": "crafting",
+			"recipe": "astikorcarts:mobcart",
+			"title": "Boat on wheels",
+			"text": "There is also another cart called the <item>transportation cart</>, which does not have any inventory space, but it can carry another passenger that can be either an adventurer or any creature that you can manage to stuff inside it."
+		},
+		{
+			"type": "spotlight",
+			"title": "Brooms",
+			"item": "bewitchment:juniper_broom",
+			"text": "Moving on to more magical vehicles, witches and the Sanguinists each have magic <item>brooms</> at their disposal for travel, such as this juniper broom."
+		},
+		{
+			"type": "spotlight",
+			"item": "thaumicwonders:flying_carpet",
+			"text": "Thaumaturgists are similarly able to create <item>flying carpets</>."
+		},
+		{
+			"type": "spotlight",
+			"item": "astralsorcery:itemcape",
+			"text": "And finally, a Vicio-attuned <item>mantle</> created by an Adept of Lunord can be used to fly at great speeds."
+		}
+	]
+}

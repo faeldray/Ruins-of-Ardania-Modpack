@@ -8,31 +8,54 @@
 			"text": "Given the amount and variety of enemies and beasts you will encounter on your travels, it is important to know how to fight back. From spears and shields to stealth and backstabs, there are many ways to keep you and your companions alive."
 		},
 		{
-			"type": "text",
-			"text": "<li>To gain more permanent vitality, <item>heart containers</> can be crafted from expensive materials. There are also rumours that the dungeons in the Aether Realm sometimes contain a Shard of Life, which will increase one's health further.<li>For temporary health, adventurers will find life fruit and iron wine most helpful."
+			"type": "crafting",
+			"recipe": "scalinghealth:heart_container",
+			"text": "To gain permanent vitality, <item>heart containers</> can be crafted from <item>heart crystal shards</>."
 		},
 		{
-			"type": "text",
-			"text": "<li>Krolm provides adventurers through the knowledge of how to create <item>Spartan</> shields and weapons out of different materials. Weapons in particular are available in a great variety, each with its own advantages and disadvantages, to accommodate any combat style.",
+			"type": "spotlight",
+			"title": "Gaining Absorbtion",
+			"item": "terraqueous:multifood:12",
+			"text": "For temporary health, adventurers will find <item>life fruit</> and <item>iron wine</> most helpful."
+		},
+		{
+			"type": "spotlight",
+			"title": "Weapons & Shields",
+			"item": "spartanshields:shield_basic_diamond",
+			"text": "Krolm provides adventurers through the knowledge of how to create <item>Spartan</> shields and weapons out of different materials. Weapons in particular are available in a great variety, each with its own advantages and disadvantages, to accommodate any combat style.",
 			"anchor": "Spartan"
 		},
 		{
-			"type": "text",
-			"text": "<li>One of the residual spells that the elves cast on Ardania before they left is that any bow enchanted with Infinity does not require any arrows in the adventurer's inventory.<li>In a 2 second window after you raise it, your shield is capable of deflecting projectiles back at the enemy who fired them. Placing the Rebound enchant on your shield will increase this window."
+			"type": "spotlight",
+			"title": "Truly Infinite",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl: 1, id: 51}]}",
+			"text": "One of the residual spells that the elves cast on Ardania before they left is that any bow enchanted with <thing>Infinity</> does not require any arrows in the adventurer's inventory."
 		},
 		{
-			"type": "text",
-			"title": "Rogues and Stealth",
-			"text": "<li>Daggers, knives, and throwing knives can be used to backstab enemies for a substantial increase in damage.<li>Rogues can use stealth to attack targets for more damage or bypass them completely. It depends on numerous factors such as distance, brightness, whether the enemy can see you at this angle, whether you're sneaking, how light your armour is, and invisibility/blindness."
+			"type": "spotlight",
+			"title": "Shield Deflecting",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl: 5, id: 58}]}",
+			"text": "In a 2 second window after you raise it, your shield is capable of deflecting projectiles back at the enemy who fired them. Placing the <thing>Rebound</> enchant on your shield will increase this window."
+		},
+		{
+			"type": "spotlight",
+			"title": "Backstabbing",
+			"item": "spartanfire:dagger_fire_dragonbone",
+			"text": "<item>Daggers, knives, and throwing knives</> can be used to backstab enemies for a substantial increase in damage."
 		},
 		{
 			"type": "crafting",
 			"text": "Dust of Vanishing allows rogues the opportunity for a retreat by teleporting backwards a short distance. For a short time, a smoke column will appear at their previous position, confusing enemies into attacking it instead.",
-			"recipe": "tombstone:dust_of_vanishing"
+			"recipe": "ct_dust_of_vanishing"
 		},
 		{
 			"type": "text",
-			"text": "Elite rogues have been known to covet the Thief armour for its powerful abilities. These include increased luck and speed, as well as the ability to go invisible if they have the complete armor set."
+			"title": "Thief Armor",
+			"text": "Elite rogues have been known to covet the <thing>Thief armor</> for its powerful abilities. These include increased luck and speed, as well as the ability to go invisible if they have the complete armor set."
+		},
+		{
+			"type": "image",
+			"images": [ "lexica_ardania:textures/gear_thief.png" ]
 		}
 	]
 }

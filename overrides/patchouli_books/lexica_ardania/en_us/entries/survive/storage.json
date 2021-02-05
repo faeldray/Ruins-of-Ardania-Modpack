@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "You will gather many items on your travels;  ores, wood, food, tools, armour,  gems, and  magical trinkets just to name a few. it will be impossible to carry them all on your body at once and so you will need storage, both on your adventures and inside your home."
+			"text": "You will gather many items on your travels; ores, wood, food, tools, armour, gems, and magical trinkets just to name a few. it will be impossible to carry them all on your body at once and so you will need storage, both on your adventures and inside your home."
 		},
 		{
 			"type": "text",
@@ -17,7 +17,7 @@
 		},
 		{
 			"type": "text",
-			"text": "<li>Stone storage is an alternative to the usual wooden chests. It opens at the front instead of the top, and up to 3 stone storage can be connected vertically. Additionally it can be upgraded to Dense Stone Storage so that each block will hold even more items.<li>A junk box is perfect for storing a lot of the same item such as cobblestone."
+			"text": "<li>Cabinets are an alternative to the usual wooden chests. They open at the front instead of the top, and up to 2 cabinets can be connected vertically."
 		},
 		{
 			"type": "text",

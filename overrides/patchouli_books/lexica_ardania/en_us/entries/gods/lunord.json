@@ -18,7 +18,7 @@
 		{
 			"type": "crafting",
 			"recipe": "astralsorcery:shaped/journal",
-			"text": "<p>To harnass Lunord's powers, one must first gather <item>aquamarine</> from beaches and craft an <item>Astral Tome</>. From there, this tome will guide an fledgling Adept along their star-lit path."
+			"text": "To harnass Lunord's powers, one must first gather <item>aquamarine</> from pools of water and craft an <item>Astral Tome</>. From there, this tome will guide an fledgling Adept along their star-lit path."
 		},
 		{
 			"type": "text",

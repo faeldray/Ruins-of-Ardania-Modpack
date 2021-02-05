@@ -1,0 +1,60 @@
+{
+	"name": "Teleportation",
+	"icon": "cyclicmagic:tool_warp_home",
+	"category": "survive",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Need to travel a long distance in an instant? It's no problem with the power of Magic(TM)!"
+		},
+		{
+			"type": "crafting",
+			"title": "Waystones",
+			"recipe": "waystones:waystone",
+			"text": "Once unlocked, <item>waystones</> can be traveled to from another waystone or a <item>warp stone</> across dimensions. This is done <idea>at the cost of experience</> (unless you are using a warp stone which has a cooldown). Waystones can often be found in villages."
+		},
+		{
+			"type": "text",
+			"title": "Markers and Signs",
+			"text": "<item>Waymarkers</> and <item>signposts</> take advantage an ender pearl's teleportation power. The waymarker can be seen as the destination and the signpost the starting point. Signposts point the direction of a waymarker and can be used to teleport to the waymarker only once you have discovered said waymarker. Signs can also point to a <item>waystone</>. The downside to this method of teleportation is that <idea>it does not work across dimensions</>."
+		},
+		{
+			"type": "crafting",
+			"recipe": "signpost:blockbaserecipe",
+			"recipe2": "signpost:blockpostpostrecipeoak"
+		},
+		{
+			"type": "text",
+			"title": "Wings of a Feather",
+			"text": "For quick personal travel, an <item>ender wing</> can be crafted to teleport in adventurer to the location where they arrived in Ardania <ooc>(world spawn)</>, and a <item>ender wing prime</> can be used to teleport back to their home. <idea>These must be used in the same dimension though.</>"
+		},
+		{
+			"type": "crafting",
+			"recipe": "cyclicmagic:item.tool_warp_spawn_1",
+			"recipe2": "cyclicmagic:item.tool_warp_home_1"
+		},
+		{
+			"type": "spotlight",
+			"title": "Stepping Through the Grave",
+			"item": "tombstone:tablet_of_home",
+			"text": "Krypta gives adventurers the ability to can use a <item>Tablet of Home</> to return to your bed, a <item>Tablet of Recall</> to return to the location of the gravestone used to enchant it, and a <item>Tablet of Assistance</> to teleport to another adventurer."
+		},
+		{
+			"type": "spotlight",
+			"title": "Thaumic Portals",
+			"item": "thaumicwonders:portal_generator",
+			"text": "It is rumoured that if a thaumaturgist spend enough time and effort on the research, they may find a way to create a <item>portal generator and anchor</> that can be used to travel across vast distances and dimensions."
+		},
+		{
+			"type": "spotlight",
+			"title": "No Broom Needed",
+			"item": "bewitchment:witches_cauldron",
+			"text": "<item>Witches' cauldrons</> can be teleported to if they have been properly named <ooc>(with a name tag)</>. This is done by throwing <item>dimensional sand</> into a boiling cauldron and then stepping into the cauldron and saying the name of the desired destination cauldron <ooc>(typing it in chat)</>."
+		},
+		{
+			"type": "spotlight",
+			"item": "astralsorcery:blockcelestialgateway",
+			"text": "Adepts of Lunord are able to create <item>celestial gateways</>, which can be used to travel to other gateways within or between other dimensions without needing to discover the gateways first."
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "A Synopsis of the Fall",
+    "icon": "chisel:bookshelf_spruce:4",
+    "category": "foreword",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Placeholder text"
+        }
+    ]
+}

@@ -19,30 +19,36 @@
 		{
 			"type": "text",
 			"title": "Sanguinism",
-			"text": "Unsatisfying with merely controlling undead, some Priestesses/Priests became Sanguinists. Through the manipulation of <item>blood</>, Sanguinists are able to perform such feats as repairing items, transporting liquids instantly over long distances, changing the weather and environment, and building flying brooms. Sanguinists seem to take special delight in their craft, which puts off most people."
+			"text": "Unsatisfying with merely controlling undead, some Priestesses/Priests became Sanguinists. Through the manipulation of <item>blood</>, Sanguinists are able to perform such feats as <thing>repairing items, transporting liquids instantly over long distances, changing the weather and environment, and building flying brooms</>. Sanguinists seem to take special delight in their craft, which puts off most people."
 		},
 		{
 			"type": "crafting",
 			"recipe": "evilcraft:darkened_apple",
-			"text": "To become a Sanguinist, one must craft a <item>darkened apple</>, feed it to an animal, and throw a book into the anomoly resulting from the animal's death. This will transform the book into the Sanguinists' tome, <item>Origins of Darkness</>."
+			"text": "To become a Sanguinist, one must craft a <item>darkened apple</>, feed it to an animal, and throw a <item>book</> into the anomoly resulting from the animal's death. This will transform the book into the Sanguinists' tome, <item>Origins of Darkness</>."
 		},
 		{
 			"type": "text",
 			"title": "Death & Getting Over It",
-			"text": "Before The Fall, the bodies of slain heroes were interred in a cementary and one could petition Krypta to raise them again. But there have been so many violent deaths after The Fall that Krypta expedited the process. Now when an adventurer dies, Krypta resurrect them immediately and <thing>magical tombstones</> containing their belongings appear at the location of their death."
+			"text": "Before The Fall, the bodies of slain heroes were interred in a cementary and one could petition Krypta to raise them again. But there have been so many violent deaths after The Fall that Krypta expedited the process. Now when an adventurer dies, Krypta resurrects them immediately and <thing>magical tombstones</> containing their belongings appear at the location of their death."
 		},
 		{
 			"type": "text",
-			"text": "Tombstones can be used for more than simple containers to store your items upon death. You will sometimes find <item>grave's dust</> on slain undead enemies, which can be used to make <item>decorative tombstones</>. Decorative tombstones attract a <thing>soul</> over time, which can be used with other items made of grave's dust for a variety of effects. Some of these effects include allowing you to teleport directly to your tombstone, <item>dusts of vanishing</> that temporarily distract enemies, <item>poppets</> that protect"
+			"text": "Tombstones can be used for more than simple containers to store your items upon death. You will sometimes find <item>grave's dust</> on slain undead enemies, which can be used to make <item>decorative tombstones</>. Decorative tombstones attract a <thing>soul</> over time, which can be used with other items made of grave's dust for a variety of effects. Some of these effects include allowing you to <thing>teleport directly to your tombstone</>, <item>dusts of vanishing</> that temporarily distract enemies, <item>poppets</> that protect"
 		},
 		{
 			"type": "text",
-			"text": "from certain kinds of death, books that absorb enchantments from items, and increasing your <thing>Knowledge of Death</> to gain useful perks. <ooc>To learn more, press <key='tombstone.message.knowledge_of_death'> to open the Knowledge of Death GUI and click the Compendium button.</>"
+			"text": "from certain kinds of death, books that <thing>absorb enchantments</> from items, and increasing your <thing>Knowledge of Death</> to gain useful perks. <ooc>To learn more, press <key='tombstone.message.knowledge_of_death'> to open the Knowledge of Death GUI and click the Compendium button.</>"
 		},
 		{
-			"type": "spotlight",
-			"item": "hexxitgear:sage_helmet",
-			"text": "While not strictly required as a uniform, Priestesses, Priests, and Sanguinists alike will find the <item>Umbra armor</> to be quite useful. "
+			"type": "text",
+			"title": "Sage Armor",
+			"text": "While not strictly required as a uniform, Priestesses, Priests, and Sanguinists alike will find the <item>Sage armor</> to be quite useful. It gives the wearer <idea>resistance to fire, the ability to breathe underwater, and temporary health</>. It also has a special activated ability that <thing>throws enemies in front of the wearer high up into the air</>."
+		},
+		{
+			"type": "image",
+			"images": [
+				"lexica_ardania:textures/gear_sage.png"
+			]
 		}
 	]
 }

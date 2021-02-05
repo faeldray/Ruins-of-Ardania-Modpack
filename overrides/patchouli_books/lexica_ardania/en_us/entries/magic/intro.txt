@@ -1,0 +1,20 @@
+{
+    "name": "Learning Magic",
+    "icon": "arcanearchives:shaped_quartz",
+    "category": "magic",
+		"priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "There are seven gods that are worshipped by the races of Ardania. Between them all, they rule over the skies, the earth, the creatures, and even death itself.<p>Historically, there have been very few friendly, or even neutral, relationships between them and it was not unknown for one god to forbid the worship of another in the same"
+        },
+        {
+            "type": "text",
+            "text": "area, lest a holy war break out.<p>But even the Gods realized the severity of The Fall and not only have they grudgingly agreed to exist peacefully in the same space, but a select few have formed alliances to allow a melding of their powers to aid worthy adventurers."
+        },
+        {
+            "type": "text",
+            "text": "The subsequent pages in this category state the original domain and personality of each God, and how they've changed since The Fall and what their powers are currently."
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
 	"name": "Tools",
-	"icon": "cyclicmagic:tool_harvest_crops",
+	"icon": "cyclicmagic:tool_harvest_weeds",
 	"category": "survive",
 	"pages": [
 		{
@@ -9,7 +9,7 @@
 		},
 		{
 			"type": "text",
-			"text": "While using the correct tool, it is possible to excavate blocks that are nearby the one you are harvesting, provided that they are of the same type. (Hold down <key='oreexcavation.key.excavate'> to use this function. It is also possible to choose to mine in a shape using <key='oreexcavation.key.shape'>.)"
+			"text": "While using the correct tool, it is possible to <idea>excavate blocks that are nearby the one you are harvesting</>, provided that they are of the same type. <ooc>(Hold down <key='oreexcavation.key.excavate'> to use this function. It is also possible to choose to mine in a shape using <key='oreexcavation.key.shape'>.)</>"
 		},
 		{
 			"type": "crafting",
@@ -18,23 +18,23 @@
 		},
 		{
 			"type": "crafting",
-			"text": "Placing torches around your home can be time-consuming endeavour. but if you don't,  there is a high chance that monsters will show up. The <item>Terrain Lighter</> makes this task much easier.",
+			"text": "Placing torches around your home can be time-consuming endeavour. But if you don't, there is a high chance that monsters will show up. The <item>Terrain Lighter</> makes this task much easier.",
 			"recipe": "torchmaster:terrain_lighter"
 		},
 		{
 			"type": "crafting",
 			"text": "Once you've gathered more resources however, the <item>Mega Torch</> can be crafted and placed to deter monsters in a large area.",
-			"recipe": "torchmaster:mega_torch"
-		},
-		{
-			"type": "spotlight",
-			"text": "<item>Chest transporters</> can be used to...well, transport chests. Some of the stronger ones (made from silver and better) can also be used to transport spawners. While they do slow you down, this effect appears to be nullified when they're inside a bag.",
-			"item": "chesttransporter:chesttransporter_iron"
+			"recipe": "ct_torchmaster_mega_torch"
 		},
 		{
 			"type": "crafting",
-			"text": "In the cases where a chest transporter cannot be used to pick up a container, a <item>Sack of holding</> can be used instead.",
+			"text": "A <item>Sack of holding</> can be used to pick up containers such as chests, as well as monster spawners.",
 			"recipe": "cyclicmagic:item.chest_sack_empty_1_2_3"
+		},
+		{
+			"type": "crafting",
+			"text": "Armor, tools, weapons, shields, and baubles can sometimes be found at <idea>varying qualities</>. To improve the quality of an item, it must be reforged in a <item>reforging station</> using <item>isolated materia</>. <ooc>(</><b>$(d)Light purple</> <ooc>text indicates the highest quality.)</>",
+			"recipe": "qualitytools:reforging_station"
 		},
 		{
 			"type": "crafting",
@@ -48,13 +48,35 @@
 		},
 		{
 			"type": "crafting",
+			"text": "A <item>brush scythe</> cuts down grass and flowers in a large area.",
+			"recipe": "cyclicmagic:item.tool_harvest_weeds_1"
+		},
+		{
+			"type": "crafting",
+			"text": "The <item>prospector</> searches for ores and other interesting blocks in a straight line behind any block you use it on, up to 32 blocks away.",
+			"recipe": "cyclicmagic:item.tool_prospector_1"
+		},
+				{
+			"type": "spotlight",
+			"title": "Living Enchantment",
+			"item": "minecraft:enchanted_book{StoredEnchantments: [{lvl: 1, id: 57}]}",
+			"text": "The <item>living enchantment</> can be added to a piece of armor, weapon, or tool. These items grow stronger with use. While it is <thing>not compatible with any other damage, efficiency, or protection enchants</>, it will <idea>eventually outperform them</> once the item has gained enough levels. Living items also have their own personality."
+		},
+{
+			"type": "crafting",
 			"text": "The <item>EnderTable</> can make enchanting easier. It uses <item>ender dust</> instead of lapis and scans one more level of bookshelves if you are in need of a smaller enchanting area. Also, placing a <item>blaze powder</> in the dust slot changes the possible enchants on the item.",
 			"recipe": "terraqueous:ender_table"
 		},
 		{
 			"type": "spotlight",
-			"text": "But before you begin using the EnderTable, it would be wise to craft an <item>Ender Monocle</> in it. This can be done by placing an Eye of Ender and 9 gold nuggets in the EnderTable. The resulting monocle can then be equipped and allows you to see which enchants are going to be applied.",
+			"text": "But before you begin using the EnderTable, it would be wise to craft an <item>Ender Monocle</> in it. This can be done by placing an <item>Eye of Ender</> and <item>9 gold nuggets</> in the EnderTable. The resulting monocle can then be equipped and allows you to see which enchants are going to be applied.",
 			"item": "terraqueous:ender_monocle"
+		},
+		{
+			"type": "crafting",
+			"title": "More Tools",
+			"text": "The dwarves have a variety of tools available to adventurers that are listed in the <item>Cyclic Guide Book</>. These include <thing>item/fluid/energy cables, conveyor belts, scaffolding, charms, and block miners</>.",
+			"recipe": "ct_cyclic_guide"
 		},
 		{
 			"type": "link",

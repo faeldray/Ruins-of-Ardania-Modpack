@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Ruins of Ardania",
-  "version": "0.2",
+  "version": "0.3",
   "author": "faeldray",
   "files": [
     {
@@ -241,7 +241,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 3183189,
+      "fileID": 3190373,
       "required": true
     },
     {
@@ -436,7 +436,7 @@
     },
     {
       "projectID": 310059,
-      "fileID": 3051855,
+      "fileID": 3193121,
       "required": true
     },
     {
@@ -566,7 +566,7 @@
     },
     {
       "projectID": 285439,
-      "fileID": 3167813,
+      "fileID": 3187627,
       "required": true
     },
     {
@@ -851,7 +851,7 @@
     },
     {
       "projectID": 257818,
-      "fileID": 3178353,
+      "fileID": 3193098,
       "required": true
     },
     {
@@ -921,7 +921,7 @@
     },
     {
       "projectID": 243707,
-      "fileID": 3132950,
+      "fileID": 3189770,
       "required": true
     },
     {
@@ -1081,12 +1081,12 @@
     },
     {
       "projectID": 403303,
-      "fileID": 3084450,
+      "fileID": 3191544,
       "required": true
     },
     {
       "projectID": 263420,
-      "fileID": 3183180,
+      "fileID": 3190356,
       "required": true
     },
     {
@@ -1141,7 +1141,7 @@
     },
     {
       "projectID": 265642,
-      "fileID": 3171828,
+      "fileID": 3189062,
       "required": true
     }
   ],

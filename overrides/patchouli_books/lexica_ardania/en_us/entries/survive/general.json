@@ -45,7 +45,7 @@
 			"type": "spotlight",
 			"title": "Ore doubling and beyond",
 			"item": "horsepower:grindstone",
-			"text": "The amount of ingots and gems received from ore can be increased in a variety of ways. The simplest method involves a <item>grindstone</>, which will double the output (more information in the <a='beasts/horses'>Horses</a> section). Some advanced magic users will discover but there are ways to get 3, 4, or even 6 times the output."
+			"text": "The amount of ingots and gems received from ore can be increased in a variety of ways. The simplest method involves a <item>grindstone</>, which will double the output (more information in the <a='beasts/horses'>Horses</a> section). Some advanced magic users will discover that there are ways to get 3, 4, or even 6 times the output."
 		}
 	]
 }

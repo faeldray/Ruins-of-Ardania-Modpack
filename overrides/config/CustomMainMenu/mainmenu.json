@@ -165,22 +165,8 @@
                 "type" : "openLink",
                 "link" : "https://discord.gg/wXTz5ZE"
             }
-        },
-        
-        "refresh":
-        {
-            "text" : " ",
-            "posX" : -126,
-            "posY" : 48,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "alignment" : "center",
-            "action" : 
-            {
-                "type" : "refresh"
-            }
         }
+        
     },
     
     "labels":

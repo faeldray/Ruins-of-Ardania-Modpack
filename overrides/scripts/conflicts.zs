@@ -13,16 +13,16 @@ recipes.remove(<quark:netherrack_speleothem>);
 recipes.remove(<quark:basalt_speleothem>);
 recipes.remove(<quark:jasper_speleothem>);
 recipes.remove(<quark:slate_speleothem>);
-recipes.addShapeless("ct_speleothem_stone", <quark:stone_speleothem> * 2, [<ore:stone>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_marble", <quark:marble_speleothem> * 2, [<ore:stoneMarble>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_granite", <quark:granite_speleothem> * 2, [<ore:stoneGranite>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_limestone", <quark:limestone_speleothem> * 2, [<ore:stoneLimestone>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_diorite", <quark:diorite_speleothem> * 2, [<ore:stoneDiorite>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_andesite", <quark:andesite_speleothem> * 2, [<ore:stoneAndesite>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_netherrack", <quark:netherrack_speleothem> * 2, [<ore:netherrack>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_basalt", <quark:basalt_speleothem> * 2, [<ore:stoneBasalt>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_jasper", <quark:jasper_speleothem> * 2, [<ore:stoneJasper>, <ore:earthworksHammer>.transformDamage()]);
-recipes.addShapeless("ct_speleothem_slate", <quark:slate_speleothem> * 2, [<ore:stoneSlate>, <ore:earthworksHammer>.transformDamage()]);
+recipes.addShapeless("ct_speleothem_stone", <quark:stone_speleothem> * 2, [<ore:stone>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_marble", <quark:marble_speleothem> * 2, [<ore:stoneMarble>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_granite", <quark:granite_speleothem> * 2, [<ore:stoneGranite>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_limestone", <quark:limestone_speleothem> * 2, [<ore:stoneLimestone>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_diorite", <quark:diorite_speleothem> * 2, [<ore:stoneDiorite>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_andesite", <quark:andesite_speleothem> * 2, [<ore:stoneAndesite>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_netherrack", <quark:netherrack_speleothem> * 2, [<ore:netherrack>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_basalt", <quark:basalt_speleothem> * 2, [<ore:stoneBasalt>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_jasper", <quark:jasper_speleothem> * 2, [<ore:stoneJasper>, <ore:earthworksHammer>.reuse()]);
+recipes.addShapeless("ct_speleothem_slate", <quark:slate_speleothem> * 2, [<ore:stoneSlate>, <ore:earthworksHammer>.reuse()]);
 
 // Quark thatch VS Earthworks thatch
 recipes.remove(<quark:thatch>);
@@ -49,7 +49,7 @@ recipes.addShaped("ct_dogbath", <doggytalents:dog_bath>, [[null, null, null], [<
 
 // Quark iron plate VS MCA matchmaker ring
 //recipes.remove(<quark:iron_plate:0>);
-//recipes.addShapeless("ct_quark_iron_plate", <quark:iron_plate:0> * 4, [<ore:ingotIron>, <ore:earthworksHammer>.transformDamage()]);
+//recipes.addShapeless("ct_quark_iron_plate", <quark:iron_plate:0> * 4, [<ore:ingotIron>, <ore:earthworksHammer>.reuse()]);
 
 // Quark stained planks VS Rustic painted planks
 recipes.remove(<quark:stained_planks:0>);
