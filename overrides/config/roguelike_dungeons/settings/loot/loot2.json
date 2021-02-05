@@ -1,0 +1,146 @@
+{
+	"name" : "roa:loot2",
+	"loot_rules" : [
+		{
+			"level" : 2,
+			"loot" : [
+				{"data" : {"type" : "specialty", "equipment" : "chest", "quality" : "diamond", "level" : 1}, "weight" : 1},
+				{"data" : {"type" : "specialty", "equipment" : "legs", "quality" : "diamond", "level" : 1}, "weight" : 1}
+
+			],
+			"each" : false,
+			"quantity" : 4
+		},
+		{
+			"level" : 2,
+			"loot" : [
+				{"data" : {"name" : "embers:ingot_copper", "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "minecraft:iron_ingot", "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "embers:ingot_aluminum", "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "embers:ingot_tin", "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "embers:ingot_lead", "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "thaumcraft:ingot","meta": 0, "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "minecraft:gold_ingot", "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "botania:manaresource","meta": 0, "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "astralsorcery:itemcraftingcomponent","meta": 1, "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "embers:ingot_lead", "min" : 1, "max" : 4}, "weight" : 2},
+				{"data" : {"name" : "minecraft:emerald"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:diamond"}, "weight" : 1},
+				{"data" : {"name" : "thaumcraft:ingot","meta": 2, "min" : 1, "max" : 4}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 4
+		},
+		{
+			"level" : 2,
+			"loot" : [
+				{"data" : {"name" : "grimoireofgaia:box","meta": 1}, "weight" : 10},
+				{"data" : {"name" : "grimoireofgaia:box_gold"}, "weight" : 10},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 0}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 1}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 2}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 3}, "weight" : 1},
+				{"data" : {"name" : "thaumcraft:loot_bag"}, "weight" : 5}
+			],
+			"each" : false,
+			"quantity" : 1
+		},
+		{
+			"level" : 2,
+			"loot" : [
+			    {"data" : {"name" : "tombstone:tablet_of_recall","nbt":"{\"ancient\": 1}"}, "weight": 1},
+			    {"data" : {"name" : "tombstone:tablet_of_home","nbt":"{\"ancient\": 1}"}, "weight": 1},			
+			    {"data" : {"name" : "tombstone:soul_receptacle"}, "weight": 1}				
+			],
+			"each" : true,
+			"quantity" : 1
+		},
+		{
+			"level" : 2,
+			"loot" : [
+				{"data" : {"name" : "tombstone:crafting_ingredient", "meta": 0, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "tombstone:crafting_ingredient", "meta": 1, "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "tombstone:crafting_ingredient", "meta": 2}, "weight" : 1},
+				{"data" : {"name" : "tombstone:crafting_ingredient", "meta": 3, "min" : 4, "max" : 8}, "weight" : 1},
+				{"data" : {"name" : "tombstone:dark_marble", "meta": 0, "min" : 4, "max" : 8}, "weight" : 1},
+				{"data" : {"name" : "tombstone:dark_marble", "meta": 1, "min" : 4, "max" : 8}, "weight" : 1},
+				{"data" : {"name" : "evilcraft:dark_gem", "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "evilcraft:ender_tear", "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "evilcraft:condensed_blood", "min" : 4, "max" : 8}, "weight" : 1},
+				{"data" : {"name" : "evilcraft:lightning_bomb", "min" : 1, "max" : 2}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather", "min" : 2, "max" : 4}, "weight" : 1}
+			],
+			"each" : false,
+			"quantity" : 5
+		},
+		{
+			"level" : 2,
+			"loot" : [
+			    {"data" : {"type" : "specialty", "equipment": "shovel", "quality" : "diamond", "level" : 2}, "weight" : 1},
+				{"data" : {"type" : "specialty", "equipment" : "sword", "quality" : "diamond", "level" : 1}, "weight" : 1},
+			],
+			"each" : false,
+			"quantity" : 3
+		},
+		{
+			"level" : 2, 
+			"loot" : [
+				{"data" : {"name" : "spartanweaponry:battleaxe_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:battleaxe_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:boomerang_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:boomerang_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:crossbow_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:crossbow_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:dagger_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:dagger_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:glaive_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:glaive_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:greatsword_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:greatsword_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:halberd_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:halberd_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:hammer_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:hammer_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:javelin_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:javelin_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:katana_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:katana_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:lance_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:lance_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:longbow_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:longbow_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:longsword_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:longsword_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:mace_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:mace_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:pike_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:pike_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:rapier_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:rapier_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:saber_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:saber_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:spear_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:spear_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:staff_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:staff_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:throwing_axe_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:throwing_axe_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:throwing_knife_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:throwing_knife_steel"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:warhammer_diamond"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:warhammer_steel"}, "weight" : 1}
+			],
+			"each" : false,
+			"quantity" : 1
+		},
+		{
+			"level" : 2,
+			"loot" : [
+				{"data" : {"name" : "minecraft:bone", "min" : 8, "max" : 24}, "weight" : 2}
+			],
+			"each" : true,
+			"quantity" : 1
+		}
+
+	]
+}

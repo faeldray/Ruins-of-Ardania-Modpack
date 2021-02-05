@@ -1,0 +1,25 @@
+{
+  "name" : "roa:theme-magic-healing",
+  "themes": [
+    {
+      "base": "SANDSTONE",
+      "level": 3,
+      "primary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 7},
+        "walls": {"name": "ebwizardry:runestone", "meta": 7},
+        "floor": {"name": "ebwizardry:runestone", "meta": 7},
+        "stair": {"name": "earthworks:stair_wicker"}
+      },
+      "secondary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 7},
+        "walls": {"name": "ebwizardry:runestone", "meta": 7},
+        "floor": {"name": "ebwizardry:runestone", "meta": 7},
+        "stair": {"name": "earthworks:stair_wicker"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+	"name" : "roa:rooms-hot",
+	"rooms" : [
+		{"level" : [0,1,2,3,4], "frequency" : "random", "type" : "BRICK", "weight" : 15},
+		{"level" : [3,4], "frequency" : "random", "type" : "NETHER", "weight" : 15},
+		{"level" : [1,3,4], "frequency" : "single", "type" : "BLAZE", "spawnerId": "roa:spawner-blazes-hot"},
+		
+		{"level" : [1, 2], "frequency": "single", "type":"CAKE"},
+		{"level" : [1, 2], "frequency": "random", "type":"ENIKO", "weight": 15},
+		{"level" : [1, 3], "frequency" : "single", "type" : "DARKHALL"},
+		{"level" : [1, 2], "frequency" : "random", "type" : "PRISON", "weight" : 5},
+		
+		{"level" : 1, "frequency" : "single", "type" : "SPIDER", "spawnerId": "roa:spawner-spiders-cave"},		
+
+		{"level" : 2, "frequency" : "single", "type" : "OSSUARY"},
+		{"level" : 2, "frequency" : "random", "type" : "CRYPT", "weight" : 10},
+		{"level" : 2, "frequency" : "single", "type" : "PIT"},
+		
+		{"level" : 3, "frequency" : "single", "type" : "ENDER"},
+		{"level" : 3, "frequency" : "single", "type" : "OBSIDIAN"},
+		{"level" : 3, "frequency" : "single", "type" : "CREEPER"},
+		
+		{"level" : 4, "frequency" : "single", "type" : "OBSIDIAN"},
+		{"level" : 4, "frequency" : "single", "type" : "OSSUARY"},
+		{"level" : 4, "frequency" : "single", "type" : "FORTRESS"},
+		
+		{"level": [0, 1, 2, 3, 4], "frequency": "single", "type": "REWARD", "count": 1},
+
+		{"level": 3, "frequency": "secret", "type": "MUSIC", "count": 1},
+		{"level": 3, "frequency": "secret", "type": "LAB", "count": 1},
+		{"level": [0, 2], "frequency" : "secret", "type" : "MESS", "count": 1},
+		{"level": 4, "frequency" : "secret", "type" : "FIRE", "count": 1},
+		{"level": 2, "frequency": "secret", "type": "SMITH", "count": 1},
+		{"level": 2, "frequency": "secret", "type": "BTEAM", "count": 1},
+		{"level": [0, 4], "frequency": "secret", "type": "BEDROOM", "count": 1},
+		{"level": [0, 1], "frequency": "secret", "type": "CAKE", "count": 1},
+		{"level": [1, 3], "frequency": "secret", "type": "ENCHANT", "count": 1},
+		{"level": 0, "frequency": "secret", "type": "FIREWORK", "count": 1},
+		{"level": [3, 4], "frequency": "secret", "type": "LIBRARY", "count": 1},
+		{"level": [1, 3], "frequency": "secret", "type": "STORAGE", "count": 1}
+	]
+}

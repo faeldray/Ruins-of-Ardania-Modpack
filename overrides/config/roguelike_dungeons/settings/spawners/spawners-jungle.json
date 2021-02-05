@@ -1,0 +1,10 @@
+{
+	"name" : "roa:spawners-jungle",
+	"inherit" : [
+		"roa:spawner-base",
+		"roa:spawner-biome-jungle",
+		"roa:spawner-crypt-water",
+		"roa:spawner-magic",
+		"roa:spawner-bosses-jungle"
+	]
+}

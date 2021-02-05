@@ -1,0 +1,14 @@
+{
+	"name" : "roa:spawner-bosses-forest",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "thaumcraft:brainyzombie"},
+				{"name" : "mod_lavacow:undeadswine"},
+				{"name" : "mod_lavacow:ithaqua"}
+			],
+			"level" : [4]
+		}
+	]
+}

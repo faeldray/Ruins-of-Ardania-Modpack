@@ -1,0 +1,6 @@
+
+{
+  "Name": "skeleton_curing",
+  "Registry ID": "overlord:skeleton_curing",
+  "Class": "the_fireplace.overlord.entity.EntityCuringSkeleton"
+}

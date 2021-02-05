@@ -1,0 +1,25 @@
+{
+  "name" : "roa:theme-magic-nature",
+  "themes": [
+    {
+      "base": "DARKOAK",
+      "level": 3,
+      "primary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 5},
+        "walls": {"name": "ebwizardry:runestone", "meta": 5},
+        "floor": {"name": "ebwizardry:runestone", "meta": 5},
+        "stair": {"name": "earthworks:stair_timber_spruce"}
+      },
+      "secondary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 5},
+        "walls": {"name": "ebwizardry:runestone", "meta": 5},
+        "floor": {"name": "ebwizardry:runestone", "meta": 5},
+        "stair": {"name": "earthworks:stair_timber_spruce"}
+      }
+    }
+  ]
+}

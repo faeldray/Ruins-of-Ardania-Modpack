@@ -1,0 +1,67 @@
+{
+	"name": "Tools",
+	"icon": "cyclicmagic:tool_harvest_crops",
+	"category": "survive",
+	"pages": [
+		{
+			"type": "text",
+			"text": "There are many tools of the trade that will prove to be useful both inside and outside of combat. Many have been created by the <a='races/dwarves#Cyclic'>dwarves</a> and <a='races/humans#Bibliocraft'>humans</a>; more info about them are in their sections of this book. Here are some additional tools to keep in mind."
+		},
+		{
+			"type": "text",
+			"text": "While using the correct tool, it is possible to excavate blocks that are nearby the one you are harvesting, provided that they are of the same type. (Hold down <key='oreexcavation.key.excavate'> to use this function. It is also possible to choose to mine in a shape using <key='oreexcavation.key.shape'>.)"
+		},
+		{
+			"type": "crafting",
+			"text": "An <item>Akashic Tome</> is a magical book that can be used to store different manuals (including this one). <ooc>(Add a book by crafting it with the tome; <key='use'> to pick a book; <key='attack'> the air to unpick; <key='sneak'> + <key='drop'> to remove a book.)</>",
+			"recipe": "akashictome:tome_1"
+		},
+		{
+			"type": "crafting",
+			"text": "Placing torches around your home can be time-consuming endeavour. but if you don't,  there is a high chance that monsters will show up. The <item>Terrain Lighter</> makes this task much easier.",
+			"recipe": "torchmaster:terrain_lighter"
+		},
+		{
+			"type": "crafting",
+			"text": "Once you've gathered more resources however, the <item>Mega Torch</> can be crafted and placed to deter monsters in a large area.",
+			"recipe": "torchmaster:mega_torch"
+		},
+		{
+			"type": "spotlight",
+			"text": "<item>Chest transporters</> can be used to...well, transport chests. Some of the stronger ones (made from silver and better) can also be used to transport spawners. While they do slow you down, this effect appears to be nullified when they're inside a bag.",
+			"item": "chesttransporter:chesttransporter_iron"
+		},
+		{
+			"type": "crafting",
+			"text": "In the cases where a chest transporter cannot be used to pick up a container, a <item>Sack of holding</> can be used instead.",
+			"recipe": "cyclicmagic:item.chest_sack_empty_1_2_3"
+		},
+		{
+			"type": "crafting",
+			"text": "<item>Redstone paste</>, a sticky substance that can be attached to any horizontal or vertical surface, can be crafted from regular redstone and a slime ball. Similarly, sticky comparators and repeaters can be made in a similar method.",
+			"recipe": "redstonepaste:redstonepaste"
+		},
+		{
+			"type": "spotlight",
+			"text": "There are several <item>wands</> with unique abilities that can be crafted through Lunord's guidance. For example, they can help you build structures, grapple a limited distance, illuminate areas and blocks, walk on air, and launch yourself high into the sky.",
+			"item": "astralsorcery:itemwand"
+		},
+		{
+			"type": "crafting",
+			"text": "The <item>EnderTable</> can make enchanting easier. It uses <item>ender dust</> instead of lapis and scans one more level of bookshelves if you are in need of a smaller enchanting area. Also, placing a <item>blaze powder</> in the dust slot changes the possible enchants on the item.",
+			"recipe": "terraqueous:ender_table"
+		},
+		{
+			"type": "spotlight",
+			"text": "But before you begin using the EnderTable, it would be wise to craft an <item>Ender Monocle</> in it. This can be done by placing an Eye of Ender and 9 gold nuggets in the EnderTable. The resulting monocle can then be equipped and allows you to see which enchants are going to be applied.",
+			"item": "terraqueous:ender_monocle"
+		},
+		{
+			"type": "link",
+			"title": "Relics",
+			"text": "There are a number of items that can be harvested from certain monsters and crafted into <thing>powerful relics</>. Such as roses that protect the holder from withering, cloaks that turn the wearer invisible in darkness, staffs that shoot lightning, medallions that store experience, and powerful grenades that do not break blocks or hurt the wielder.",
+			"url": "https://github.com/P3pp3rF1y/Reliquary/wiki",
+			"link_text": "Reliquary Wiki"
+		}
+	]
+}

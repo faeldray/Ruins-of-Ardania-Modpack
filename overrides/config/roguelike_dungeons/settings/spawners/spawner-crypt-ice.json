@@ -1,0 +1,18 @@
+{
+	"name" : "roa:spawner-crypt-ice",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "minecraft:wither_skeleton"},
+				{"name" : "mod_lavacow:zombiefrozen"},
+				{"name" : "iceandfire:dread_ghoul"},
+				{"name" : "mod_lavacow:banshee"},
+				{"name" : "iceandfire:dread_beast"},
+				{"name" : "minecraft:stray"},
+				{"name" : "iceandfire:dread_thrall"}
+			],
+			"level" : [2]
+		}
+	]
+}

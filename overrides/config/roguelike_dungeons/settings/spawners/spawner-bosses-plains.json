@@ -1,0 +1,14 @@
+{
+	"name" : "roa:spawner-bosses-plains",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "thaumcraft:brainyzombie"},
+				{"name" : "mod_lavacow:undertaker"},
+				{"name" : "mod_lavacow:scarecrow"}
+			],
+			"level" : [4]
+		}
+	]
+}

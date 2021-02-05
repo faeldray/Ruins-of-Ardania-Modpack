@@ -1,0 +1,25 @@
+{
+  "name" : "roa:theme-magic-storm",
+  "themes": [
+    {
+      "base": "TEMPLE",
+      "level": 3,
+      "primary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 3},
+        "walls": {"name": "ebwizardry:runestone", "meta": 3},
+        "floor": {"name": "ebwizardry:runestone", "meta": 3},
+        "stair": {"name": "quark:prismarine_dark_stairs"}
+      },
+      "secondary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 3},
+        "walls": {"name": "ebwizardry:runestone", "meta": 3},
+        "floor": {"name": "ebwizardry:runestone", "meta": 3},
+        "stair": {"name": "quark:prismarine_dark_stairs"}
+      }
+    }
+  ]
+}

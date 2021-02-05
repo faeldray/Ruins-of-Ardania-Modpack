@@ -1,0 +1,10 @@
+{
+	"name" : "roa:spawners-swamp",
+	"inherit" : [
+		"roa:spawner-base",
+		"roa:spawner-biome-swamp",
+		"roa:spawner-crypt-water",
+		"roa:spawner-magic",
+		"roa:spawner-bosses-swamp"
+	]
+}

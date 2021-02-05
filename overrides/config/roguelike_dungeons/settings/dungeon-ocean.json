@@ -1,0 +1,40 @@
+{
+	"name" : "roa:dungeon-ocean",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"OCEAN"
+		],
+		"weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-wet",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-storm",
+		"roa:spawners-swamp"    
+    ],
+		"tower":{
+			"type":"ETHO",
+			"theme":{ "base" : "TEMPLE"	}
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"MOSSY"
+		},
+		{
+			"level":1,
+			"base":"SEWER"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"MUDDY"
+		}
+  ]
+}

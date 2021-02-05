@@ -1,0 +1,53 @@
+{
+	"name": "Travelling",
+	"icon": "cyclicmagic:tool_warp_home",
+	"category": "survive",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Before the Fall, Ardania was a massive kingdom that could take weeks if not months to cross. And so its inhabitants created many magical and non-magical travel methods."
+		},
+		{
+			"type": "text",
+			"title": "Transportation",
+			"text": "The simplest form of transportation is of course the humble horse. Adventurers will find that the people of Ardania have come up with ways to make them more useful and not so humble. There are other creatures that may also be used as mounts including dogs, chocobos, hippogriffs, and even dragons. More information about all of these creatures (including horses) can be found in the <a='beasts'>Beasts and Monsters</a> section."
+		},
+		{
+			"type": "text",
+			"text": "If you already have a horse and wish to travel with others or store more items, a cart can be crafted. A standard cart can hitch to a horse or any similar beast, can be loaded with items, and has room for another adventure. There is also a variation called the transportation cart, which while having no inventory, can carry another passenger that can be either an adventurer or any creature that you can manage to stuff inside it."
+		},
+		{
+			"type": "text",
+			"text": "Moving on to more magical vehicles, witches and the Sanguinists each have magic brooms at their disposal for travel."
+		},
+		{
+			"type": "text",
+			"text": "Thaumaturgists are similarly able to create flying carpets."
+		},
+		{
+			"type": "text",
+			"text": "And finally, a Vicio-attuned mantle created by an Adept of Lunord can be used to fly at great speeds."
+		},
+		{
+			"type": "text",
+			"title": "Teleportation",
+			"text": "Waymarkers and signposts take advantage an ender pearl's teleportation power. The waymarker can be seen as the destination and the signpost the starting point. Signs points the direction of a waymarker and can be used to teleport to the waymarker only once an adventure has discovered said waymarker. Villages will sometimes have their own waymarkers and signs, although the villagers may have placed them in discreet locations. The downside to this method of teleportation is that it does not work interdimensionally."
+		},
+		{
+			"type": "text",
+			"text": "For quick personal travel, an ender wing can be crafted to teleport in adventurer to the location where they arrived in Ardania (world spawn), and a ender wing prime can be used to teleport back to their home."
+		},
+		{
+			"type": "text",
+			"text": "Krypta gives adventurers the ability to can use a Tablet of Recall to return to a particular location, and a Tablet of Assistance to teleport to another adventurer."
+		},
+		{
+			"type": "text",
+			"text": "It is rumoured that if a thaumaturgist spend enough time and effort on the research, they may find a way to create a portal generator and anchor that can be used to travel across vast distances and dimensions."
+		},
+		{
+			"type": "text",
+			"text": "Adepts of Lunord are able to create celestial gateways, which can be used to travel to other gateways within or between other dimensions without needing to discover the gateways first."
+		}
+	]
+}

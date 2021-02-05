@@ -1,0 +1,40 @@
+{
+	"name" : "roa:dungeon-mountain",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"MOUNTAINS"
+		],
+    "weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-mountain",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-dark",
+		"roa:spawners-mountain"    
+    ],
+		"tower":{
+			"type":"HOUSE",
+			"theme":{ "base" : "BRICK"	}
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"CAVE"
+		},
+		{
+			"level":1,
+			"base":"MINESHAFT"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"SNOW"
+		}
+  ]
+}

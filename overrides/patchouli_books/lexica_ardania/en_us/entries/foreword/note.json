@@ -1,0 +1,24 @@
+{
+    "name": "Note from the Author",
+    "icon": "ancientwarfare:diamond_quill",
+    "category": "foreword",
+		"priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The <i>Lexica Ardania</> is a collection of information detailing what remains of the Kingdom of Ardania and how to survive in this beautiful but dangerous land. It is written for both newcomers and experienced adventurers alike, since Ardania has seen much change in the past few centuries."
+        },
+        {
+            "type": "text",
+            "text": "This book is by no means comprehensive, due to the sheer number of topics that could be covered in much detail, so I have included notes in red ink when I have discovered pertinent information through my own adventures, or when another book covers a subject much more in depth than I ever could."
+        },
+        {
+            "type": "text",
+            "text": "It is my hope that this book will help you, adventurer, if not save your very life. Whether you seek justice, wealth, or power, I wish you the best of luck. May your armor never crack, may your arrows fly true, and may your spells never backfire and turn you into a chicken."
+        },
+        {
+            "type": "text",
+            "text": "<ooc>In my attempt to keep this book mostly \"in character\", any \"out of character\" notes will be in bold red text just like this. So keep an eye out for it!</>"
+        }
+    ]
+}

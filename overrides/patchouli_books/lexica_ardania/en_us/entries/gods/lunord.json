@@ -1,0 +1,28 @@
+{
+	"name": "Lunord",
+	"icon": "astralsorcery:itemcraftingcomponent:2",
+	"category": "gods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "<i>God of the Moon and the Stars; Son of Krolm; Brother of Helia; Father to the Quadruplets.</><p>Despite the fact that Helia and Lunord both endeavor to protect Ardania, they have been bitter rivals for a very long time. After The Fall, Lunord was surprised to find that Helia's absence worried him greatly, and he instructed his Adepts to aid the Solarus in any way possible."
+		},
+		{
+			"type": "text",
+			"text": "The alliance between the two factions of followers was rife with conflict at first but soon they discovered that they worked together rather well. Lunord invented new ways for his powers to aid his followers and others, extending beyond the idea of protection. He transformed much of the landscape in this endeavour, burying <thing>crystals and veins of marble</> deep in the earth, forming <thing>shrine and temples</> as locations to collect his power, and dotting the sandy beaches with <item>aquamarine</> gems."
+		},
+		{
+			"type": "text",
+			"text": "Once Helia revealed herself again, it was Lunord that offered a truce between the two of them, and he was surprised once again when she readily accepted. The two of them have managed to coexist peacefully within Ardania's borders, united in their purpose to see the kingdom thrive once more."
+		},
+		{
+			"type": "crafting",
+			"recipe": "astralsorcery:shaped/journal",
+			"text": "<p>To harnass Lunord's powers, one must first gather <item>aquamarine</> from beaches and craft an <item>Astral Tome</>. From there, this tome will guide an fledgling Adept along their star-lit path."
+		},
+		{
+			"type": "text",
+			"text": "Through an alliance formed with Dauros, the power of a special star-bound card deck is available to those who create the <a='gods/dauros#AOVastro'>Astrologian Statue</a>."
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name" : "roa:dungeon-plains",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"PLAINS"
+		],
+    "weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-mountain",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-healing",
+		"roa:spawners-plains"    
+    ],
+		"tower":{
+			"type":"ENIKO",
+			"theme":{ "base" : "OAK" }
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"ETHO"
+		},
+		{
+			"level":1,
+			"base":"MUDDY"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"MOSSY"
+		}
+  ]
+}

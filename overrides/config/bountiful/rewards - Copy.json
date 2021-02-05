@@ -1,0 +1,187 @@
+[
+  {
+    "content": "ebwizardry:magic_crystal",
+    "unitWorth": 900,
+    "weight": 10,
+		"amount": {
+      "min": 1,
+      "max": 3
+    }
+	},
+  {
+    "content": "ebwizardry:grand_crystal",
+    "unitWorth": 2400,
+    "weight": 5,
+		"amount": {
+      "min": 1,
+      "max": 3
+    }
+	},
+  {
+    "content": "xreliquary:holy_hand_grenade",
+    "unitWorth": 2400,
+    "weight": 10,
+		"amount": {
+      "min": 1,
+      "max": 2
+    }
+	},
+  {
+    "content": "botania:blacklotus",
+    "unitWorth": 2400,
+    "weight": 10,
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "astralsorcery:itemrockcrystalsimple",
+    "unitWorth": 3000,
+    "weight": 5,
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "chococraft:ability_fruit:0",
+    "unitWorth": 2400,
+    "weight": 5,
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "chococraft:ability_fruit:1",
+    "unitWorth": 2400,
+    "weight": 5,
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "chococraft:ability_fruit:2",
+    "unitWorth": 2400,
+    "weight": 5,
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "chococraft:ability_fruit:3",
+    "unitWorth": 2400,
+    "weight": 5,
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 10000,
+    "weight": 5,
+		"nbt_data": "{ench:[{id:75,lvl:1}]}",
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 8000,
+    "weight": 5,
+		"nbt_data": "{ench:[{id:40,lvl:1}]}",
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 10000,
+    "weight": 5,
+		"nbt_data": "{ench:[{id:74,lvl:1}]}",
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 10000,
+    "weight": 5,
+		"nbt_data": "{ench:[{id:60,lvl:1}]}",
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 10000,
+    "weight": 5,
+		"nbt_data": "{ench:[{id:33,lvl:1}]}",
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 10000,
+    "weight": 5,
+		"nbt_data": "{ench:[{id:51,lvl:1}]}",
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 10000,
+    "weight": 5,
+		"nbt_data": "{ench:[{id:54,lvl:1}]}",
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "ebwizardry:armour_upgrade",
+    "unitWorth": 20000,
+    "weight": 5,
+		"amount": {
+      "min": 1,
+      "max": 1
+    }
+	},
+  {
+    "content": "evilcraft:condensed_blood",
+    "unitWorth": 900,
+    "weight": 10
+  },
+  {
+    "content": "minecraft:gold_ingot",
+    "unitWorth": 900,
+    "weight": 10
+  },
+  {
+    "content": "embers:crystal_ember",
+    "unitWorth": 400,
+    "weight": 5
+  },
+  {
+    "content": "terraqueous:item_main:477",
+    "unitWorth": 2400,
+    "weight": 5
+  },
+  {
+    "content": "tombstone:soul_receptacle",
+    "unitWorth": 1800,
+    "weight": 10
+  }
+]

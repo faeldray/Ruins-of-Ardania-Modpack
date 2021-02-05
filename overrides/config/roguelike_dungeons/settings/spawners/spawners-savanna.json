@@ -1,0 +1,10 @@
+{
+	"name" : "roa:spawners-savanna",
+	"inherit" : [
+		"roa:spawner-base",
+		"roa:spawner-biome-plains",
+		"roa:spawner-crypt-fire",
+		"roa:spawner-magic",
+		"roa:spawner-bosses-plains"
+	]
+}

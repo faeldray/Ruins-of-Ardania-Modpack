@@ -1,0 +1,2 @@
+// Chicken eggs -> yellow chocobo egg
+mods.thaumcraft.Crucible.registerRecipe("ct_crucible_chocobo_egg", "", <chococraft:chocobo_spawn_egg:0>, <minecraft:egg>, [<aspect:cognitio> * 5, <aspect:vitium> * 5]);

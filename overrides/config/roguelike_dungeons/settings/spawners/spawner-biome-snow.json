@@ -1,0 +1,15 @@
+{
+	"name" : "roa:spawner-biome-snow",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:zombiefrozen"},
+				{"name" : "mod_lavacow:banshee"},
+				{"name" : "minecraft:spider"},
+				{"name" : "minecraft:stray"}
+			],
+			"level" : [1]
+		}
+	]
+}

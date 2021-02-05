@@ -1,0 +1,494 @@
+{
+    "comment": "These qualities will apply for all basic weapons and
+                tools, including swords, pickaxes, axes, shovels, hoes, 
+                and shears! For more info about how to edit this file 
+                and add more files, visit 
+                https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
+    
+    "slot": "mainhand",
+    "whitelist": [
+      {
+        "class": "ItemTool"
+      },
+      {
+        "class": "ItemHoe"
+      },
+      {
+        "class": "ItemShears"
+      },
+      {
+        "class": "ItemSword"
+      },
+      {
+        "item": "spartanfire:throwing_axe_desert"
+      },
+      {
+        "item": "spartanfire:throwing_axe_desert_venom"
+      },
+      {
+        "item": "spartanfire:throwing_axe_dragonbone"
+      },
+      {
+        "item": "spartanfire:throwing_axe_fire_dragonbone"
+      },
+      {
+        "item": "spartanfire:throwing_axe_fire_dragonsteel"
+      },
+      {
+        "item": "spartanfire:throwing_axe_ice_dragonbone"
+      },
+      {
+        "item": "spartanfire:throwing_axe_ice_dragonsteel"
+      },
+      {
+        "item": "spartanfire:throwing_axe_jungle"
+      },
+      {
+        "item": "spartanfire:throwing_axe_jungle_venom"
+      },
+      {
+        "item": "spartanfire:throwing_knife_desert"
+      },
+      {
+        "item": "spartanfire:throwing_knife_desert_venom"
+      },
+      {
+        "item": "spartanfire:throwing_knife_dragonbone"
+      },
+      {
+        "item": "spartanfire:throwing_knife_fire_dragonbone"
+      },
+      {
+        "item": "spartanfire:throwing_knife_fire_dragonsteel"
+      },
+      {
+        "item": "spartanfire:throwing_knife_ice_dragonbone"
+      },
+      {
+        "item": "spartanfire:throwing_knife_ice_dragonsteel"
+      },
+      {
+        "item": "spartanfire:throwing_knife_jungle"
+      },
+      {
+        "item": "spartanfire:throwing_knife_jungle_venom"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_bronze"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_copper"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_diamond"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_electrum"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_gold"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_iron"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_lead"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_nickel"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_silver"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_steel"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_stone"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_tin"
+      },
+      {
+        "item": "spartanweaponry:throwing_axe_wood"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_bronze"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_copper"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_diamond"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_electrum"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_gold"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_iron"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_lead"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_nickel"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_silver"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_steel"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_stone"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_tin"
+      },
+      {
+        "item": "spartanweaponry:throwing_knife_wood"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_axe_dawnstone"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_axe_elementium"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_axe_manasteel"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_axe_terrasteel"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_axe_thaumium"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_axe_voidmetal"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_knife_dawnstone"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_knife_elementium"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_knife_manasteel"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_knife_terrasteel"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_knife_thaumium"
+      },
+      {
+        "item": "spartanweaponryarcana:throwing_knife_voidmetal"
+			}
+    ],
+    "blacklist": [
+    
+    ],
+    "qualities": [
+      {
+        "name": "quality.worthless.name",
+        "color": "dark_red",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": -0.1,
+            "operation": 2
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": -0.1,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": -0.1,
+            "operation": 2
+          },
+          {
+            "name": "generic.reachDistance",
+            "amount": -1,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "quality.broken.name",
+        "color": "dark_gray",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": -0.15,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.bulky.name",
+        "color": "dark_gray",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": -0.15,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": -0.15,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.rusted.name",
+        "color": "red",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": -0.1,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": -0.1,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.clumsy.name",
+        "color": "red",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": -0.05,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": -0.05,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.chipped.name",
+        "color": "red",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": -0.05,
+            "operation": 2
+          },
+          {
+            "name": "generic.attackDamage",
+            "amount": -0.05,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.short.name",
+        "color": "red",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": -1,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "normal",
+        "weight": 100
+      },
+      {
+        "name": "quality.broad.name",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.1,
+            "operation": 2
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": -0.05,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": -0.05,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.thin.name",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": -0.05,
+            "operation": 2
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.pokey.name",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.05,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": -0.1,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.vicious.name",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.15,
+            "operation": 2
+          },
+          {
+            "name": "generic.reachDistance",
+            "amount": -0.5,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "quality.long.name",
+        "color": "blue",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": 0.5,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "quality.sharp.name",
+        "color": "blue",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.keen.name",
+        "color": "blue",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.1,
+            "operation": 2
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.graceful.name",
+        "color": "aqua",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "potioncore.digSpeed",
+            "amount": 0.15,
+            "operation": 2
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.15,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.sweeping.name",
+        "color": "aqua",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": 0.5,
+            "operation": 0
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.2,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "quality.legendary.name",
+        "color": "light_purple",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.15,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": 0.1,
+            "operation": 2
+          },
+          {
+            "name": "generic.reachDistance",
+            "amount": 0.5,
+            "operation": 0
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      }
+    ]
+}

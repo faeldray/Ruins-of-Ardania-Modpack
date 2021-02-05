@@ -1,0 +1,19 @@
+{
+	"name": "Witchcraft",
+	"icon": "bewitchment:pentacle",
+	"category": "magic",
+	"pages": [
+		{
+			"type": "text",
+			"text": "<i>God of Druidry and Nature; Quadruplet of Dauros, Agrela, and Krypta; Son of Lunord and Helia.</><p>If there is one God who has changed the most since The Fall, it is Krolm. There was a time when he would allow no other Gods to be worshipped"
+		},
+		{
+			"type": "text",
+			"text": "near his temples, so estranged he was from his progeny. Now that he had directed his rage at the enemies of Ardania, it has become clear to him that having the other Gods around can only benefit his endeavour.$(p)Krolm's powers have also changed with his demeanour. Certainly, it is not surprising that Krolm's followers still produce superior weapons, armor, and machines of war."
+		},
+		{
+			"type": "text",
+			"text": "What is unexpected is that with their god's guidance, humans (Krolm's favoured race) have also researched and developed machines for farming, fishing, and more.$(p)For more details on how to create these machines, refer to the book $(italics)Treatise on the Principles of Ruling/$."
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name" : "roa:spawners-plains",
+	"inherit" : [
+		"roa:spawner-base",
+		"roa:spawner-biome-plains",
+		"roa:spawner-crypt-mild",
+		"roa:spawner-magic",
+		"roa:spawner-bosses-plains"
+	]
+}

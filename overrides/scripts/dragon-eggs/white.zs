@@ -1,0 +1,3 @@
+// White - Astral Sorcery, Evilcraft
+import mods.astralsorcery.Altar;
+mods.astralsorcery.Altar.addTraitAltarRecipe("roa:shaped/internal/altar/whitedragonegg", <iceandfire:dragonegg_white>, 4500, 200, [null, <ore:stoneMarble>, null, <ore:stoneMarble>, <minecraft:dragon_egg>, <ore:stoneMarble>, null, <ore:stoneMarble>, null, null, null, null, null, <ore:stoneMarble>, null, null, <ore:stoneMarble>, <ore:stoneMarble>, null, null, <ore:stoneMarble>, null, null, null, null, <ore:icePacked>, <iceandfire:ash>, <astralsorcery:itemtunedrockcrystal>, <evilcraft:promise_acceptor>]);

@@ -1,0 +1,42 @@
+{
+	"name" : "roa:dungeon-desert",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"MESA",
+			"DESERT",
+			"DRY"
+		],
+    	"weight": 100
+	},
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-hot",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-fire",
+		"roa:spawners-desert"    
+    ],
+	"tower":{
+		"type":"RUIN",
+		"theme":{ "base" : "PYRAMID" }
+	},
+	"themes":[
+		{
+			"level":0,
+			"base":"ENIKO"
+		},
+		{
+			"level":1,
+			"base":"SANDSTONE"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"SANDSTONERED"
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"name": "Exploration",
+	"icon": "naturescompass:naturescompass",
+	"category": "survive",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Glaciers and deserts, autumnal forest and oceans...this patchwork of landscapes comprise the kingdom of Ardania. All throughout, one can find dungeons, ruins, monster lairs, villages, and more. To navigate to all the wonders and dangers, adventurers will find that there are many tools to aid them on their journeys."
+		},
+		{
+			"type": "text",
+			"text": "<li>A magical map has been provided to all adventurers. You will find that you can use it to map the surrounding area and mark any points of interest. <ooc>(This is the minimap. You can also open a world map with <key='gui.xaero_open_map'>.)</><li>You will come across many structures in your travels. Some can simply provide shelter for a weary traveller while others are filled to the brim with monsters and treasure."
+		},
+		{
+			"type": "crafting",
+			"text": "<li>A sleeping bag can be crafted and used sleep safely through a night.",
+			"recipe": "cyclicmagic:item.sleeping_mat"
+		},
+		{
+			"type": "crafting",
+			"text": "<li>There are a few hooks that can be used to reach hard-to-reach places. You may wish to start with a wooden or iron hook.",
+			"recipe": "hooked:wood_hook"
+		},
+		{
+			"type": "crafting",
+			"text": "<li>There exists a strange apple that allows one to travel up slopes without needing to constantly jump.",
+			"recipe": "cyclicmagic:item.food_step"
+		},
+		{
+			"type": "crafting",
+			"text": "<li>An adventurer looking for a particular biome will find that a regular compass can be morphed into a nature compass.",
+			"recipe": "naturescompass:natures_compass"
+		},
+		{
+			"type": "text",
+			"text": "<li>The caves in Ardania exist in a massive underground network, with tunnels extending for miles and criss-crossing one another often. It is very easy to get lost but you were all but guaranteed to come across something interesting.<li>Some villages have a building with walls made of polished diorite that has within it a teleporter to a labyrinthine dungeon dimension.This dimension is the remnants of the life's work of the wizard Daedalus."
+		},
+		{
+			"type": "text",
+			"text": "<li>While you might be familiar with the Nether dimension and how to reach it, there is a complementary dimension called the Aether that can be accessed in Ardania. The portal for the Aether is built with glowstone and activated by a bucket of water. If you do decide to venture into this realm, I hope that you are not afraid of heights."
+		},
+		{
+			"type": "multiblock",
+			"text": "This portal frame can be any size but this is the minimum size required.",
+      "multiblock": {
+        "pattern": [
+          [ " OO " ],
+          [ "OPPO" ],
+          [ "OPPO" ],
+          [ "OPPO" ],
+          [ " O0 " ]
+        ],
+        "mapping": {
+          " ": "ANY",
+          "0": "minecraft:glowstone",
+          "O": "minecraft:glowstone",
+          "P": "AIR"
+        },
+        "symmetrical": true,
+        "offset"     : [0, 0, 0],
+        "view_offset": [0, 0, 0]
+      }
+    }
+	]
+}

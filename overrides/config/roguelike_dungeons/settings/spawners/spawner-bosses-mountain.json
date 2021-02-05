@@ -1,0 +1,15 @@
+{
+	"name" : "roa:spawner-bosses-mountain",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "iceandfire:dread_knight"},
+				{"name" : "iceandfire:dread_scuttler"},
+				{"name" : "iceandfire:dread_lich"},
+				{"name" : "mod_lavacow:undertaker"}
+			],
+			"level" : [4]
+		}
+	]
+}

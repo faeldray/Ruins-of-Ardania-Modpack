@@ -1,0 +1,15 @@
+{
+	"name" : "roa:spawner-biome-desert",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:avaton"},
+				{"name" : "mod_lavacow:ptera"},
+				{"name" : "thaumcraft:firebat"},
+				{"name" : "mod_lavacow:boneworm"}
+			],
+			"level" : [1]
+		}
+	]
+}

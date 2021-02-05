@@ -1,0 +1,32 @@
+{
+	"name": "Agrela",
+	"icon": "botania:flower:9",
+	"category": "gods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "<i>Goddess of Life and Flowers; Quadruplet of Dauros, Fervus, and Krypta; Daughter of Lunord and Helia.</><p>Historically, Agrela has been a being of peace and harmony, focusing on healing and providing aid to adventurers. Her followers, Healers, used to only plant flowers that could be used to craft healing salves. But The Fall forced Agrela to make some tough"
+		},
+		{
+			"type": "text",
+			"text": "decisions. While healing abilities are certainly a boon, they are inheritantly reactive, only used to fix damage that has already occurred. The citizens of Ardania were greatly suffering after The Fall and Agrela found herself wanting to become proactive, to stop the pain before it had a chance to occur."
+		},
+		{
+			"type": "text",
+			"text": "And so she began to dot the landscape with a variety of the different <item>mystical flowers</>, and provided her followers instructions on how they could be used to make their daily lives easier as well as defend them. Slowly the title of Healer began to fade from her followers' ranks and they became known instead as <idea>Botanists</>.<p>That does not mean that the Healers have disappeared altogether though. These days, they continue their work"
+		},
+		{
+			"type": "text",
+			"text": "through <a='gods/dauros#AOVcleric'>an alliance made with Dauros</a>.<p>Agrela also struck a deal with the <thing>elves</>, who wished to leave Ardania behind. In exchange for creating a safe haven for them, the elves agreed to exchange special materials found only in their realm with high-ranking Botanists."
+		},
+		{
+			"type": "crafting",
+			"text": "Botanists have gathered their knowledge of Agrela's magic in a book titled <item>Lexica Botania</>. One wishing to become a Botanist would be wise to craft this book.",
+			"recipe": "botania:lexicon"
+		},
+		{
+			"type": "text",
+			"text": "<ooc>Already know everything about Botania? These add-ons are also in the pack: <li>AIOT Botania<li>Botania Needs These Things!<li>Botanic Additions<li>Natural Pledge</>"
+		}
+	]
+}

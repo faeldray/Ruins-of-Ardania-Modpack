@@ -1,0 +1,36 @@
+{
+	"name": "Helia",
+	"icon": "embers:ember_cluster",
+	"category": "gods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "<i>Goddess of the Sun and Fire; Daughter of Krolm; Sister of Lunord; Mother to the Quadruplets.</><p>Helia and her followers, known as the Solarus, have historically been known as some of the most determined protectors of Ardania, fueled by a burning passion to rid the world of evil. But after The Fall, Helia disappeared without warning and"
+		},
+		{
+			"type": "text",
+			"text": "the Solarus were left despondant. As years went by, many of them abandoned their faith, leaving a few who only stayed out of a sense of duty and fewer still who believed that Helia would return to them. One of the believers was Staria Emberbright, an elderly woman who had never been able to go into battle due to physical deformities."
+		},
+		{
+			"type": "text",
+			"text": "One day Staria was examining the remains of an ancient golem and noticed runes hidden on its body, which she became certain were clues that would lead her to Helia. Unable to convince anyone else of this, she alone followed the clues into the depths of the deepest dwarven mines. It was there that she found Helia's power, hidden away from all but the most tenacious. The Order of the Embers was founded on that day and with the aid of the dwarves, Staria and her fellow believers created ways to"
+		},
+		{
+			"type": "text",
+			"text": "harness this new Ember energy.<p>With Helia's blessing and guidance, these newly-named Embershapers crafted <idea>machines and tools for combat and non-combat purposes</>. Decades later, far beyond her natural lifespan, Staria Emberbright passed away, content with the knowledge that she had helped reintroduce the glory and might of Helia back to the people of Ardania."
+		},
+		{
+			"type": "crafting",
+			"text": "Adventurers who wish to join The Order of Embers must first slay an <thing>ancient golem</>. Then they must assemble an <item>Ancient Codex</> from its remains. The Codex contains all the knowledge that an Embershaper will need. But Helia does not easily give up her knowledge.",
+			"recipe": "embers:codex"
+		},
+		{
+			"type": "text",
+			"text": "The Codex is known for its cryptic language and encourages experimentation.<p>The old ways of the Solarus have not been entirely forgotten either. Through an alliance forged with Dauros, Helia offers powerful <idea>offensive spells</> to her most dedicated followers. These followers are known these days as <a='gods/dauros#AOVfavored'>Favored Souls</a>."
+		},
+		{
+			"type": "text",
+			"text": "<ooc>In this pack, there are a few addons for Embers: Aetherworks, Aetherium Ashen Armor, and Soot.</>"
+		}
+	]
+}

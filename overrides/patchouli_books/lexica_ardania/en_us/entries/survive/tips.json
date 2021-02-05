@@ -1,0 +1,58 @@
+{
+	"name": "More Tips",
+	"icon": "botania:cosmetic:31",
+	"category": "survive",
+	"pages": [
+		{
+			"type": "text",
+			"text": "$(italics)God of Rage and War; Creator of Humanity; Father of Lunord and Helia. Supposedly the lone first god, but evidence exists of a forgotten goddess, possibly the mother of his children./$$(p)If there is one God who has changed the most since The Fall, it is Krolm. There was a time when he would allow no other Gods to be worshipped"
+		},
+		{
+			"type": "text",
+			"text": "near his temples, so estranged he was from his progeny. Now that he had directed his rage at the enemies of Ardania, it has become clear to him that having the other Gods around can only benefit his endeavour.$(p)Krolm's powers have also changed with his demeanour. Certainly, it is not surprising that Krolm's followers still produce superior weapons, armor, and machines of war."
+		},
+		{
+			"type": "text",
+			"text": "What is unexpected is that with their god's guidance, humans (Krolm's favoured race) have also researched and developed machines for farming, fishing, and more.$(p)For more details on how to create these machines, refer to the book $(italics)Treatise on the Principles of Ruling/$.$(p)For more information on some of the weapons, tools, and armor that Krolm has helped develop, refer to the $(l:survive/tools)Tools$(/l) section of this book."
+		},
+		{
+			"type": "crafting",
+			"text": "$(italics)Treatise on the $(br)Principles of Ruling/$",
+			"recipe": "ancientwarfare:core/manual",
+			"title": "Ancient Warfare Manual"
+		},
+		{
+			"type": "text",
+			"text": "Krolm's devotees still exist in Ardania, with two ranks among their order. Those of the lower rank are known as Berserkers, who wear armor made from animal hides and wield hammers along with black iron shields."
+		},
+		{
+			"type": "crafting",
+			"recipe": "bma_addon:armor/berserker_helmet",
+			"recipe2": "bma_addon:armor/berserker_chestplate"
+		},	
+		{
+			"type": "crafting",
+			"recipe": "bma_addon:armor/berserker_leggings",
+			"recipe2": "bma_addon:armor/berserker_boots"
+		},
+		{
+			"type": "crafting",
+			"recipe": "bma_addon:hammer",
+			"recipe2": "ctrpgberserkershield"
+		},
+		{
+			"type": "text",
+			"text": "Barbarians make up the higher rank and don a suit of powerful tribal armor, each piece embedded with a hexical diamond. They are proficient in many types of weapons and shields, and so they wield whichever ones are their preference."
+		},
+		{
+			"type": "crafting",
+			"recipe": "hexxitgear:recipe1",
+			"recipe2": "hexxitgear:recipe2"
+		},
+		{
+			"type": "crafting",
+			"recipe": "hexxitgear:recipe3",
+			"recipe2": "hexxitgear:recipe4"
+		}
+	]
+}

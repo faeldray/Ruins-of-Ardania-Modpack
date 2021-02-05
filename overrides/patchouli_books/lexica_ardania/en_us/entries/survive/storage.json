@@ -1,0 +1,55 @@
+{
+	"name": "Storage",
+	"icon": "metalchests:metal_hungry_chest:0",
+	"category": "survive",
+	"pages": [
+		{
+			"type": "text",
+			"text": "You will gather many items on your travels;  ores, wood, food, tools, armour,  gems, and  magical trinkets just to name a few. it will be impossible to carry them all on your body at once and so you will need storage, both on your adventures and inside your home."
+		},
+		{
+			"type": "text",
+			"text": "If you would like to quickly store your items without making any containers, it is possible to just pile them on the ground. Ingots are especially easy to pile. To start a pile, press <b>P</> while holding an item in your main hand. You can also use a Pile Stick to change the properties of a pile, such as persistence, adding a blacklist or whitelist, and setting a minimum or maximum. Hoppers and pipes can interact with the bottom block of a pile."
+		},
+		{
+			"type": "text",
+			"text": "<li>For storage in your inventory, the simplest solution is a storage bag.<li>Once you have more materials, there is a magical (and expensive) cake that can be eaten to double your inventory size.<li>If you would like a container that is transportable, a crate is fairly easy to make and keeps its contents when broken."
+		},
+		{
+			"type": "text",
+			"text": "<li>Stone storage is an alternative to the usual wooden chests. It opens at the front instead of the top, and up to 3 stone storage can be connected vertically. Additionally it can be upgraded to Dense Stone Storage so that each block will hold even more items.<li>A junk box is perfect for storing a lot of the same item such as cobblestone."
+		},
+		{
+			"type": "text",
+			"text": "<li>If you prefer the standard chest style, they can be made out of a variety of wood types. For more storage in a smaller area, a wooden chest can be upgraded with different metals and eventually diamonds and obsidian for maximum storage. Hungry versions of these chests are also craftable if one is a thaumaturgist."
+		},
+		{
+			"type": "text",
+			"text": "<li>Enderlink chests are ender chests that only link to chests with the same coloured bands. The band colours can be changed with dye, and a diamond can be used to make a chest private. These chests can also be doubled in size with an ender pearl. To access one of these chests while travelling, use a enderlink bag of the same corresponding colour (shift-right-click the bag on the chest to link it)."
+		},
+		{
+			"type": "text",
+			"text": "<li>Ender tanks and Ender buckets operate just like Enderlink chests and Enderlink bags, except they hold fluids instead."
+		},
+		{
+			"type": "text",
+			"title": "Storage systems",
+			"text": "Individual pieces of storage are all well and good, but at some point they become unwieldy.  Luckily, there are three different systems that adventurers can use to organize their multitude of resources and treasure."
+		},
+		{
+			"type": "crafting",
+			"text": "The first storage system is fairly inexpensive to begin and as such, should probably be the first storage system that new adventurers create. To get started, one simply needs to make a Tome of Arcana and follow the information contained within.",
+			"recipe": "arcanearchives:tome_arcana"
+		},
+		{
+			"type": "spotlight",
+			"item": "ancientwarfareautomation:warehouse_control",
+			"text": "Adventurers that have gained Krolm's good will, through spending time researching with the humans, will find that they have access to a warehouse system. This multi-block structure consists of a warehouse control block, different storage sizes, interfaces, and crafting stations."
+		},
+		{
+			"type": "spotlight",
+			"item": "botania:corporeaspark",
+			"text": "Followers of Agrela are able to create Corporeal Networks. Such a system is not for the faint of heart but for those who take the time to learn its intricacies, it can be quite powerful."
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+  "name" : "roa:theme-magic-sorcery",
+  "themes": [
+    {
+      "base": "ENDER",
+      "level": 3,
+      "primary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 6},
+        "walls": {"name": "ebwizardry:runestone", "meta": 6},
+        "floor": {"name": "ebwizardry:runestone", "meta": 6},
+        "stair": {"name": "quark:stone_basalt_stairs"}
+      },
+      "secondary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 6},
+        "walls": {"name": "ebwizardry:runestone", "meta": 6},
+        "floor": {"name": "ebwizardry:runestone", "meta": 6},
+        "stair": {"name": "quark:stone_basalt_stairs"}
+      }
+    }
+  ]
+}

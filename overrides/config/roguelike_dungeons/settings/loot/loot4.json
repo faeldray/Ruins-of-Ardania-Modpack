@@ -1,0 +1,65 @@
+{
+	"name" : "roa:loot4",
+	"loot_rules" : [
+		{
+			"level" : 4,
+			"loot" : [
+				{"data" : {"name" : "thaumcraft:ingot","meta": 0, "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:gold_ingot", "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "botania:manaresource","meta": 0, "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "astralsorcery:itemcraftingcomponent","meta": 1, "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "embers:ingot_lead", "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:emerald", "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:diamond", "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "thaumcraft:ingot","meta": 2, "min" : 1, "max" : 4}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 4
+		},
+		{
+			"level" : 4,
+			"loot" : [
+				{"data" : {"name" : "grimoireofgaia:box","meta": 2}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:box_diamond"}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 0}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 1}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 2}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:misc_ring","meta": 3}, "weight" : 1},
+				{"data" : {"name" : "grimoireofgaia:box_old"}, "weight" : 1},
+			],
+			"each" : false,
+			"quantity" : 1
+		},
+		{
+			"level" : 4,
+			"loot" : [
+			    {"data" : {"name" : "xreliquary:holy_hand_grenade", "min" : 1, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "botania:manabottle"}, "weight" : 1},
+				{"data" : {"name" : "thaumcraft:loot_bag","meta": 2}, "weight" : 2},
+				{"data" : {"name" : "waystones:warp_scroll"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:experience_bottle"}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : 4,
+			"loot" : [
+			    {"data" : {"type" : "potion", "name" : "potioncore:repair"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "regeneration"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "potioncore:archery"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "night_vision"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "potioncore:climb"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "potioncore:iron_skin"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "potioncore:magic_shield"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "potioncore:reach"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "potioncore:teleport_surface"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "cyclicmagic:potion.saturation"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "fire_resistance"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "healing"}, "weight" : 1}				
+			],
+			"each" : true,
+			"quantity" : 1
+		}
+	]
+}

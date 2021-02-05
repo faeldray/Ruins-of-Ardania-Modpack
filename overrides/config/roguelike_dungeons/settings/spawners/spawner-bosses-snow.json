@@ -1,0 +1,16 @@
+{
+	"name" : "roa:spawner-bosses-snow",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:zombiefrozen"},
+				{"name" : "iceandfire:dread_knight"},
+				{"name" : "mod_lavacow:banshee"},
+				{"name" : "iceandfire:dread_scuttler"},
+				{"name" : "iceandfire:dread_lich"}
+			],
+			"level" : [4]
+		}
+	]
+}

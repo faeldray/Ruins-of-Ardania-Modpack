@@ -1,0 +1,15 @@
+{
+	"name" : "roa:spawner-bosses-desert",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "thaumcraft:firebat"},
+				{"name" : "mod_lavacow:salamander"},
+				{"name" : "mod_lavacow:avaton"},
+				{"name" : "mod_lavacow:boneworm"}
+			],
+			"level" : [4]
+		}
+	]
+}

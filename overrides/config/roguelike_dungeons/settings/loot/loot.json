@@ -1,0 +1,12 @@
+{
+	"name" : "roa:loot",
+	"inherit" : [
+		"builtin:loot",
+		"roa:loot0",
+		"roa:loot1",
+		"roa:loot2",
+		"roa:loot3",
+		"roa:loot4",
+		"roa:loottables-magic"
+	]
+}

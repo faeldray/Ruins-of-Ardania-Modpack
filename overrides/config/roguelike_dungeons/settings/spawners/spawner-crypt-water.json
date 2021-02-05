@@ -1,0 +1,15 @@
+{
+	"name" : "roa:spawner-crypt-water",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "minecraft:wither_skeleton"},
+				{"name" : "mod_lavacow:zombiemushroom"},
+				{"name" : "mod_lavacow:zombiepiranha"},
+				{"name" : "quark:pirate"}
+			],
+			"level" : [2]
+		}
+	]
+}

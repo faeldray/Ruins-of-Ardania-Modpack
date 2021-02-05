@@ -1,0 +1,25 @@
+{
+  "name" : "roa:theme-magic-dark",
+  "themes": [
+    {
+      "base": "CHECKER",
+      "level": 3,
+      "primary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 4},
+        "walls": {"name": "ebwizardry:runestone", "meta": 4},
+        "floor": {"name": "ebwizardry:runestone", "meta": 4},
+        "stair": {"name": "botania:biomestonea3stairs"}
+      },
+      "secondary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 4},
+        "walls": {"name": "ebwizardry:runestone", "meta": 4},
+        "floor": {"name": "ebwizardry:runestone", "meta": 4},
+        "stair": {"name": "botania:biomestonea3stairs"}
+      }
+    }
+  ]
+}

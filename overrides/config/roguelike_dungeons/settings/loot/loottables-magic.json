@@ -1,0 +1,7 @@
+{
+	"name" : "roa:loottables-magic",
+	"loot_tables": [
+		{"level": 3, "table": "ebwizardry:chests/wizard_tower"},
+		{"level": 4, "table": "ebwizardry:chests/shrine"}
+	]
+ }

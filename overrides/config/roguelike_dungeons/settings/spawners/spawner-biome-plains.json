@@ -1,0 +1,15 @@
+{
+	"name" : "roa:spawner-biome-plains",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "thaumcraft:brainyzombie"},
+				{"name" : "mod_lavacow:avaton"},
+				{"name" : "mod_lavacow:scarecrow"},
+				{"name" : "minecraft:spider"}
+			],
+			"level" : [1]
+		}
+	]
+}

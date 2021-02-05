@@ -1,0 +1,15 @@
+{
+	"name" : "roa:spawner-crypt-fire",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "minecraft:wither_skeleton"},
+				{"name" : "minecraft:husk"},
+				{"name" : "mod_lavacow:avaton"},
+				{"name" : "mod_lavacow:boneworm"}
+			],
+			"level" : [2]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name" : "roa:dungeon-taiga",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"CONIFEROUS"
+		],
+    "weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-cold",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-nature",
+		"roa:spawners-taiga"    
+    ],
+		"tower":{
+			"type":"HOUSE",
+			"theme":{ "base" : "SPRUCE"	}
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"BRICK"
+		},
+		{
+			"level":1,
+			"base":"SPRUCE"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"MOSSY"
+		}
+  ]
+}

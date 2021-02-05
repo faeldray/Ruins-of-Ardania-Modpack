@@ -1,0 +1,40 @@
+{
+	"name" : "roa:dungeon-savanna",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"SAVANNA"
+		],
+    "weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-hot",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-healing",
+		"roa:spawners-savanna"    
+    ],
+		"tower":{
+			"type":"RUIN",
+			"theme":{ "base" : "SANDSTONERED" }
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"ENIKO"
+		},
+		{
+			"level":1,
+			"base":"RAINBOW"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"ENIKO2"
+		}
+  ]
+}

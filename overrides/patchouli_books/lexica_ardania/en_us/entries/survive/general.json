@@ -1,0 +1,51 @@
+{
+	"name": "General Advice",
+	"icon": "cyclicmagic:block_workbench",
+	"category": "survive",
+	"priority": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": "Surviving in Ardania is not as simple as one might expect. It is a land unlike any other and filled with many dangers. While acquiring magical power and the favor of the Gods is the best path to dying of old age rather than the claws of a vicious dragon, there are many small pieces of information that could extend your life, or at least make it easier."
+		},
+		{
+			"type": "text",
+			"text": "I have gathered all manner of advice into different sections of this chapter. In this section, I will detail advice that does not fall under the other topics.<p>Adventurers will find that they are able to specialize and increase their skills in a fashion that's entirely independant of magic or divine powers. Amoung these skills are <idea>combat, mining, digging, fishing, and farming</>. <ooc>The keybind to access this GUI is <key='LevelUpSkills'>.</>"
+		},
+		{
+			"type": "crafting",
+			"recipe": "cyclicmagic:tile.block_workbench_1",
+			"text": "As crafting tables have a tendency to spill out their items as soon as one walks away from them, it is advisable to add some cobblestone ledges and transform it into a <item>Workbench</>."
+		},
+		{
+			"type": "crafting",
+			"recipe": "terraqueous:craftfurnace",
+			"text": "A <item>CraftFurnace</> is 50% more fuel efficient than a regular furnace, can smelt two items at once, and has a small storage for input and output."
+		},
+		{
+			"type": "text",
+			"text": "Coal and charcoal can be broken up into <thing>mini pieces</>, each of which is enough fuel to cook a single item.<p>Ardanians have found a way to fashion <thing>fences</> so that adventurers can easily <idea>jump over a single-height section</> of them. Monsters and animals are unable to replicate this."
+		},
+		{
+			"type": "crafting",
+			"recipe": "hopperducts:hopperduct",
+			"text": "<item>Hopper ducts</> can be added onto hoppers to transport items more efficiently. <item>Grated hoppers</> can be used to filter which items are outputted."
+		},
+		{
+			"type": "crafting",
+			"recipe": "fluidfunnel:funnel",
+			"text": "A <item>fluid funnel</> can be used to transfer fluids. Pointing a funnel towards an inventory will allow the funnel to insert fluids into items found within (such as buckets, glass bottles, tanks, and so on)."
+		},
+		{
+			"type": "spotlight",
+			"item": "bountiful:bountyboarditem",
+			"text": "<item>Bounty boards</> can be found in most villages and offer rewards in exchange for completing particular tasks. <idea>Dungeons</> are a good place to look for <thing>monsters</> needed to complete a bounty."
+		},
+		{
+			"type": "spotlight",
+			"title": "Ore doubling and beyond",
+			"item": "horsepower:grindstone",
+			"text": "The amount of ingots and gems received from ore can be increased in a variety of ways. The simplest method involves a <item>grindstone</>, which will double the output (more information in the <a='beasts/horses'>Horses</a> section). Some advanced magic users will discover but there are ways to get 3, 4, or even 6 times the output."
+		}
+	]
+}

@@ -1,0 +1,2 @@
+// Bronze - AW2, Embers
+recipes.addShaped(<iceandfire:dragonegg_bronze>, [[<ancientwarfarevehicle:ammo_explosive_shot_10>, <ancientwarfarenpc:coin>.withTag({metal: "copper"}), <ancientwarfarevehicle:ammo_explosive_shot_10>], [<ore:blockCoal>, <minecraft:dragon_egg>, <iceandfire:ash>], [<ancientwarfarevehicle:ammo_explosive_shot_10>, <embers:block_bronze>, <ancientwarfarevehicle:ammo_explosive_shot_10>]]);

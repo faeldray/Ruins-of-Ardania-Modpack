@@ -1,0 +1,17 @@
+{
+	"name" : "roa:spawner-biome-forest",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "thaumcraft:brainyzombie"},
+				{"name" : "minecraft:zombie"},
+				{"name" : "mod_lavacow:undeadswine"},
+				{"name" : "minecraft:skeleton"},
+				{"name" : "mod_lavacow:banshee"},
+				{"name" : "minecraft:spider"}
+			],
+			"level" : [1]
+		}
+	]
+}

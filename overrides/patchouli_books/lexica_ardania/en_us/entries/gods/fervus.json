@@ -1,0 +1,24 @@
+{
+	"name": "Fervus",
+	"icon": "roots:spirit_herb",
+	"category": "gods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "<i>God of Beasts and Nature; Quadruplet of Dauros, Agrela, and Krypta; Son of Lunord and Helia.</><p>The deity that has likely changed the least since the fall is Fervus. As one can observe, although there are plenty of changes within nature, nature itself largely stays the same and therefore so does its god. Probably the most noticeable change is that."
+		},
+		{
+			"type": "text",
+			"text": "Fervus is more accepting of alliances, seen most apparent in the <a='gods/dauros#AOVdruid'>Druidic Statue</a>.<p>Those most devoted to Fervus are called Druids and strive to live in harmony with nature. As such, they can <idea>perform rituals</> that do things such as obtain materials from animals without killing them, grow forests, create flowers, and summon storms."
+		},
+		{
+			"type": "text",
+			"text": "There are other items they can create, such as <thing>more efficient farmland</> and <item>Living Tools</> that repair themselves over time. This does not mean that Druids are defenseless however. They can <thing>create resilient armour</> and <thing>enchant staves</> with a variety of utility, protection, and offensive spells."
+		},
+		{
+			"type": "crafting",
+			"recipe": "roots:guide",
+			"text": "Those who wish to follow Fervus and become a Druid can begin by breaking tall grass until they obtain wildroot, which can then be combined with a book to create <item>The Druidic Arts</>."
+		}
+	]
+}

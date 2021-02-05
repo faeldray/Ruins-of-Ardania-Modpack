@@ -1,0 +1,10 @@
+{
+	"name" : "roa:spawners-snow",
+	"inherit" : [
+		"roa:spawner-base",
+		"roa:spawner-biome-snow",
+		"roa:spawner-crypt-ice",
+		"roa:spawner-magic",
+		"roa:spawner-bosses-snow"
+	]
+}

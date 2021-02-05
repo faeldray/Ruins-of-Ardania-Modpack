@@ -1,0 +1,18 @@
+{
+	"name" : "roa:spawner-biome-jungle",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:zombiemushroom"},
+				{"name" : "mod_lavacow:vespa"},
+				{"name" : "mod_lavacow:foglet"},
+				{"name" : "mod_lavacow:zombiepiranha"},
+				{"name" : "mod_lavacow:ptera"},
+				{"name" : "mod_lavacow:banshee"},
+				{"name" : "minecraft:cave_spider"}
+			],
+			"level" : [1]
+		}
+	]
+}

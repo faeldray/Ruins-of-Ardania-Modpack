@@ -1,0 +1,19 @@
+{
+	"name" : "roa:spawner-crypt-mild",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "minecraft:wither_skeleton"},
+				{"name" : "thaumcraft:brainyzombie"},
+				{"name" : "thaumcraft:inhabitedzombie"},
+				{"name" : "quark:dweller"},
+				{"name" : "mod_lavacow:undeadswine"},
+				{"name" : "bewitchment:black_dog"},
+				{"name" : "quark:wraith"},
+				{"name" : "mod_lavacow:banshee"}
+			],
+			"level" : [2]
+		}
+	]
+}

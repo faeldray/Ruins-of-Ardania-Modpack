@@ -1,0 +1,41 @@
+{
+	"name" : "roa:dungeon-swamp",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"SWAMP",
+			"SWAMPLAND"
+		],
+		"weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-wet",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-storm",
+		"roa:spawners-swamp"    
+    ],
+		"tower":{
+			"type":"WITCH",
+			"theme":{ "base" : "SEWER"	}
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"CAVE"
+		},
+		{
+			"level":1,
+			"base":"MUDDY"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"MOSSY"
+		}
+  ]
+}

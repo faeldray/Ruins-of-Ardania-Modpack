@@ -1,0 +1,17 @@
+{
+	"name" : "roa:spawner-bosses-jungle",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:zombiemushroom"},
+				{"name" : "mod_lavacow:vespa"},
+				{"name" : "mod_lavacow:foglet"},
+				{"name" : "mod_lavacow:undertaker"},
+				{"name" : "mod_lavacow:ptera"},
+				{"name" : "minecraft:cave_spider"}
+			],
+			"level" : [4]
+		}
+	]
+}

@@ -1,0 +1,1 @@
+mods.embers.Alchemy.add(<embers:isolated_materia> * 16, [<ore:ingotSteel>,<arcanearchives:radiant_dust>,<ore:nuggetQuicksilver>,<embers:brick_caminite>, null], {"dawnstone":(32 to 40)});

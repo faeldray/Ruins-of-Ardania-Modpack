@@ -1,0 +1,1 @@
+// mods.futuremc.Smoker.addRecipe(<minecraft:pumpkin>, <minecraft:seeds>);

@@ -1,0 +1,40 @@
+{
+	"name" : "roa:dungeon-snow",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"SNOWY"
+		],
+    "weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-cold",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-ice",
+		"roa:spawners-snow"    
+    ],
+		"tower":{
+			"type":"PYRAMID",
+			"theme":{ "base" : "ICE"	}
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"CAVE"
+		},
+		{
+			"level":1,
+			"base":"SNOW"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"ICE"
+		}
+  ]
+}

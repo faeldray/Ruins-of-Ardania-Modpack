@@ -1,0 +1,136 @@
+// Grindstone
+mods.horsepower.Grindstone.add(<ore:cropWheat>, <horsepower:flour> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:sugarcane>, <minecraft:sugar> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:tnt>, <minecraft:gunpowder> * 5, 8);
+
+mods.horsepower.Grindstone.add(<iceandfire:chared_gravel>, <minecraft:flint> * 2, 8);
+mods.horsepower.Grindstone.add(<iceandfire:frozen_gravel>, <minecraft:flint> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:gravel>, <minecraft:flint> * 2, 8);
+
+mods.horsepower.Grindstone.add(<minecraft:red_flower>, <minecraft:dye:1> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:4>, <minecraft:dye:1> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:double_plant:4>, <minecraft:dye:1> * 4, 8);
+mods.horsepower.Grindstone.add(<minecraft:beetroot>, <minecraft:dye:1> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:3>, <minecraft:dye:7> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:6>, <minecraft:dye:7> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:8>, <minecraft:dye:7> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:7>, <minecraft:dye:7> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:double_plant:5>, <minecraft:dye:9> * 4, 8);
+mods.horsepower.Grindstone.add(<minecraft:yellow_flower>, <minecraft:dye:11> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:double_plant>, <minecraft:dye:11> * 4, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:1>, <minecraft:dye:12> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:2>, <minecraft:dye:1> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:double_plant:1>, <minecraft:dye:13> * 4, 8);
+mods.horsepower.Grindstone.add(<minecraft:red_flower:5>, <minecraft:dye:14> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:bone>, <minecraft:dye:15> * 6, 8);
+
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:0>, <terraqueous:item_main:104>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:1>, <minecraft:dye:1>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:2>, <minecraft:dye:2>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:3>, <terraqueous:item_main:105>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:4>, <terraqueous:item_main:106>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:5>, <minecraft:dye:5>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:6>, <minecraft:dye:6>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:7>, <minecraft:dye:7>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:8>, <minecraft:dye:8>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:9>, <minecraft:dye:9>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:10>, <minecraft:dye:10>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:11>, <minecraft:dye:11>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:12>, <minecraft:dye:12>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:13>, <minecraft:dye:13>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:14>, <minecraft:dye:14>, 8);
+mods.horsepower.Grindstone.add(<terraqueous:flowers_single:15>, <terraqueous:item_main:107>, 8);
+
+mods.horsepower.Grindstone.add(<botania:petal:0>, <botania:dye:0> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:1>, <botania:dye:1> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:2>, <botania:dye:2> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:3>, <botania:dye:3> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:4>, <botania:dye:4> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:5>, <botania:dye:5> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:6>, <botania:dye:6> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:7>, <botania:dye:7> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:8>, <botania:dye:8> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:9>, <botania:dye:9> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:10>, <botania:dye:10> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:11>, <botania:dye:11> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:12>, <botania:dye:12> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:13>, <botania:dye:13> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:14>, <botania:dye:14> * 2, 8);
+mods.horsepower.Grindstone.add(<botania:petal:15>, <botania:dye:15> * 2, 8);
+
+
+mods.horsepower.Grindstone.add(<ore:oreAether>, <aetherworks:item_resource:0> * 3, 8);
+mods.horsepower.Grindstone.add(<ore:oreAluminum>, <contenttweaker:material_part:39> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreBauxite>, <contenttweaker:material_part:39> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreAmber>, <thaumcraft:amber> * 4, 8, false, <thaumcraft:curio:1>, 20);
+mods.horsepower.Grindstone.add(<ore:oreAquamarine>, <astralsorcery:itemcraftingcomponent:0> * 6, 8);
+mods.horsepower.Grindstone.add(<ore:oreAstralStarmetal>, <astralsorcery:itemcraftingcomponent:2> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreBurnium>, <terraqueous:item_main:251> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreCinnabar>, <thaumcraft:quicksilver> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreCoal>, <minecraft:coal> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreCopper>, <contenttweaker:material_part:55> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreDark>, <evilcraft:dark_gem> * 4, 8, false, <evilcraft:dark_gem_crushed>, 26 );
+mods.horsepower.Grindstone.add(<ore:oreDiamond>, <terraqueous:item_main:209> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreEmerald>, <terraqueous:item_main:211> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreEndimium>, <terraqueous:item_main:253> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreGold>, <mysticalworld:gold_dust> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreIron>, <mysticalworld:iron_dust> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreLapis>, <minecraft:dye:4> * 12, 8);
+mods.horsepower.Grindstone.add(<ore:oreLead>, <contenttweaker:material_part:42> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreNickel>, <contenttweaker:material_part:43> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreQuartz>, <minecraft:quartz> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreRedstone>, <minecraft:redstone> * 6, 8);
+mods.horsepower.Grindstone.add(<ore:oreSapphire>, <iceandfire:sapphire_gem> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreSilver>, <contenttweaker:material_part:56> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreTin>, <contenttweaker:material_part:44> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreMithril>, <contenttweaker:material_part:2> * 2, 8);
+mods.horsepower.Grindstone.add(<ebwizardry:crystal_ore>, <ebwizardry:magic_crystal> * 5, 8);
+mods.horsepower.Grindstone.add(<ore:oreAmethyst>, <bewitchment:amethyst> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreGarnet>, <bewitchment:garnet> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreOpal>, <bewitchment:opal> * 2, 8);
+mods.horsepower.Grindstone.add(<ore:oreSalt>, <bewitchment:salt> * 4, 8);
+
+mods.horsepower.Grindstone.add(<ore:ingotAluminum>, <contenttweaker:material_part:39>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotAstralStarmetal>, <astralsorcery:itemcraftingcomponent:2>, 8);
+mods.horsepower.Grindstone.add(<ore:gemBurnium>, <terraqueous:item_main:251>, 8);
+mods.horsepower.Grindstone.add(<ore:coal>, <terraqueous:item_main:207>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotCopper>, <contenttweaker:material_part:55>, 8);
+mods.horsepower.Grindstone.add(<ore:gemDark>, <evilcraft:dark_gem_crushed> * 4, 8, false, <evilcraft:dark_gem_crushed>, 26 );
+mods.horsepower.Grindstone.add(<ore:gemDiamond>, <terraqueous:item_main:209>, 8);
+mods.horsepower.Grindstone.add(<ore:gemEmerald>, <terraqueous:item_main:211>, 8);
+mods.horsepower.Grindstone.add(<ore:gemEndimium>, <terraqueous:item_main:253>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotGold>, <mysticalworld:gold_dust>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotIron>, <mysticalworld:iron_dust>, 8);
+mods.horsepower.Grindstone.add(<ore:gemLapis>, <minecraft:dye:4> * 12, 8);
+mods.horsepower.Grindstone.add(<ore:ingotLead>, <contenttweaker:material_part:42>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotNickel>, <contenttweaker:material_part:43>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotSilver>, <contenttweaker:material_part:56>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotTin>, <contenttweaker:material_part:44>, 8);
+mods.horsepower.Grindstone.add(<ore:ingotMithril>, <contenttweaker:material_part:2>, 8);
+
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:6>, <thaumcraft:quicksilver> * 4, 8);
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:2>, <contenttweaker:material_part:55> * 4, 8);
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:1>, <mysticalworld:gold_dust> * 4, 8);
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:0>, <mysticalworld:iron_dust> * 4, 8);
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:5>, <contenttweaker:material_part:42> * 4, 8);
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:7>, <minecraft:quartz> * 4, 8);
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:4>, <contenttweaker:material_part:56> * 4, 8);
+mods.horsepower.Grindstone.add(<thaumcraft:cluster:3>, <contenttweaker:material_part:44> * 4, 8);
+
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:6>, <thaumcraft:quicksilver> * 6, 8);
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:2>, <contenttweaker:material_part:55> * 6, 8);
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:1>, <mysticalworld:gold_dust> * 6, 8);
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:0>, <mysticalworld:iron_dust> * 6, 8);
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:5>, <contenttweaker:material_part:42> * 6, 8);
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:7>, <minecraft:quartz> * 6, 8);
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:4>, <contenttweaker:material_part:56> * 6, 8);
+mods.horsepower.Grindstone.add(<thaumicwonders:eldritch_cluster:3>, <contenttweaker:material_part:44> * 6, 8);
+
+mods.horsepower.Grindstone.add(<iceandfire:ash>, <embers:dust_ash:0> * 9, 8);
+mods.horsepower.Grindstone.add(<minecraft:magma>, <minecraft:magma_cream> * 2, 8);
+mods.horsepower.Grindstone.add(<minecraft:ender_pearl>, <terraqueous:item_main:201>, 8);
+mods.horsepower.Grindstone.add(<minecraft:blaze_rod>, <minecraft:blaze_powder> * 2, 8);
+
+mods.horsepower.Grindstone.add(<biomesoplenty:dirt:0>, <minecraft:dirt>, 8, false, <earthworks:item_dirt>, 100);
+mods.horsepower.Grindstone.add(<biomesoplenty:dirt:1>, <minecraft:dirt>, 8, false, <earthworks:item_sand>, 100);
+mods.horsepower.Grindstone.add(<biomesoplenty:dirt:2>, <minecraft:dirt>, 8, false, <minecraft:clay_ball>, 100);

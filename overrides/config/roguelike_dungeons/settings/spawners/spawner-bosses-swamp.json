@@ -1,0 +1,16 @@
+{
+	"name" : "roa:spawner-bosses-swamp",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:zombiemushroom"},
+				{"name" : "mod_lavacow:sludgelord"},
+				{"name" : "mod_lavacow:foglet"},
+				{"name" : "mod_lavacow:undertaker"},
+				{"name" : "minecraft:cave_spider"}
+			],
+			"level" : [4]
+		}
+	]
+}

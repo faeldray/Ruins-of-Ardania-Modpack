@@ -1,0 +1,25 @@
+{
+  "name" : "roa:theme-magic-ice",
+  "themes": [
+    {
+      "base": "ICE",
+      "level": 3,
+      "primary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 2},
+        "walls": {"name": "ebwizardry:runestone", "meta": 2},
+        "floor": {"name": "ebwizardry:runestone", "meta": 2},
+        "stair": {"name": "quark:icy_stone_brick_stairs"}
+      },
+      "secondary": {
+        "lightblock": {"name":  "arcanearchives:storage_shaped_quartz"},
+        "liquid": {"name": "biomesoplenty:hot_spring_water"},
+        "pillar": {"name": "ebwizardry:runestone", "meta": 2},
+        "walls": {"name": "ebwizardry:runestone", "meta": 2},
+        "floor": {"name": "ebwizardry:runestone", "meta": 2},
+        "stair": {"name": "quark:icy_stone_brick_stairs"}
+      }
+    }
+  ]
+}

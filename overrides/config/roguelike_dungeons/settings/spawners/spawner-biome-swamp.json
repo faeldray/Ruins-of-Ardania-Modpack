@@ -1,0 +1,19 @@
+{
+	"name" : "roa:spawner-biome-swamp",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:zombiemushroom"},
+				{"name" : "mod_lavacow:lilsludge"},
+				{"name" : "mod_lavacow:foglet"},
+				{"name" : "mod_lavacow:zombiepiranha"},
+				{"name" : "minecraft:slime"},
+				{"name" : "rats:illager_piper"},
+				{"name" : "minecraft:skeleton"},
+				{"name" : "minecraft:cave_spider"}
+			],
+			"level" : [1]
+		}
+	]
+}

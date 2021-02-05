@@ -1,0 +1,12 @@
+{
+  "name": "roa:spawner-spiders-cave",
+	"exclusive":true,
+  "spawners": [
+		{
+			"potentials" : [
+				{"name" : "minecraft:cave_spider"}
+			],
+			"level" : [1]
+		}
+	]
+}

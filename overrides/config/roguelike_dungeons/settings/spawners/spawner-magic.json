@@ -1,0 +1,18 @@
+{
+	"name" : "roa:spawner-magic",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "bewitchment:black_dog"},
+				{"name" : "mod_lavacow:mimic"},
+				{"name" : "thaumcraft:wisp"},
+				{"name" : "minecraft:witch"},
+				{"name" : "ebwizardry:evil_wizard"},
+				{"name" : "minecraft:enderman"},
+				{"name" : "grimoireofgaia:ender_eye"}
+			],
+			"level" : [3]
+		}
+	]
+}

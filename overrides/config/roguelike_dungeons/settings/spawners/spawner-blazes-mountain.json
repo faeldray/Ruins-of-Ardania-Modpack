@@ -1,0 +1,24 @@
+{
+  "name": "roa:spawner-blazes-mountain",
+	"exclusive":true,
+  "spawners": [
+		{
+			"potentials" : [
+				{"name" : "ebwizardry:lightning_wraith"}
+			],
+			"level" : [1]
+		},
+    {
+			"potentials": [
+				{"name": "ebwizardry:lightning_wraith"}
+			],
+			"level": [3]
+		},
+    {
+			"potentials": [
+				{"name": "ebwizardry:lightning_wraith"}
+			],
+			"level": [4]
+		}
+	]
+}

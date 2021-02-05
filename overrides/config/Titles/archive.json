@@ -1,0 +1,22 @@
+{
+  "COMMON": [
+    "the Brute",
+    "the Apprentice",
+    "the Page",
+		"the Merchant"
+  ],
+  "UNCOMMON": [
+    "the Predator",
+    "the Journeyman",
+    "the Squire",
+    "the Herald",
+    "the Strong"
+  ],
+  "RARE": [
+    "the Reaper",
+    "the Master",
+    "the Knight",
+    "the Crusader",
+    "the Commander"
+  ]
+}

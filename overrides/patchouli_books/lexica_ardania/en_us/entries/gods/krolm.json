@@ -1,0 +1,25 @@
+{
+	"name": "Krolm",
+	"icon": "spartanfire:battleaxe_fire_dragonsteel",
+	"category": "gods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "<i>God of Rage and War; Creator of Humanity; Father of Lunord and Helia. Supposedly the lone first god, but evidence exists of a forgotten goddess, possibly the mother of his children.</><p>If there is one God who has changed the most since The Fall, it is Krolm. There was a time when he would allow no other Gods to be worshipped near his temples, so estranged"
+		},
+		{
+			"type": "text",
+			"text": "he was from his progeny. Now that he has directed his rage at the enemies of Ardania, it has become clear to him that having the other Gods around can only benefit his endeavour.<p>This is why many of Krolm's followers have put their efforts into producing <thing>superior weapons and shields</>, providing them to adventurers of any faith. These armaments have been nicknamed the Armory of <item>Spartan</> after the legendary barbarian, Spartan."
+		},
+		{
+			"type": "text",
+			"text": "Krolm has also brokered a deal with the dwarves with the purpose of aiding humans. In return for providing a safe haven for the race, Krolm would transport a few dwarves periodically to Ardania to educate humans on how to develop <idea>machines for farming, fishing, and more</>. They would even show them how to create <thing>siege engines</>. The sum of this knowledge has been recorded in the book <item>Treatise on the Principles of Ruling</>."
+		},
+		{
+			"type": "crafting",
+			"recipe": "ancientwarfare:core/manual",
+			"title": "The Treatise",
+			"text": "Note: Researching takes quite some time but it can be sped up by giving a <thing>worker</> a <item>quill</> and assigning them to the <item>research station</>."
+		}
+	]
+}

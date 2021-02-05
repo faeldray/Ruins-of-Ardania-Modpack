@@ -1,0 +1,20 @@
+{
+  "materialMappings": {
+    "aluminum_armor": 45,
+    "mithril_dust": 2,
+    "nickel_dust": 43,
+    "mithril_ingot": 0,
+    "steel_armor": 52,
+    "nickel_armor": 50,
+    "silver_dust": 56,
+    "aluminum_dust": 39,
+    "tin_armor": 51,
+    "tin_dust": 44,
+    "electrum_armor": 48,
+    "mithril_molten": 15,
+    "lead_dust": 42,
+    "lead_armor": 49,
+    "bronze_armor": 46,
+    "copper_dust": 55
+  }
+}

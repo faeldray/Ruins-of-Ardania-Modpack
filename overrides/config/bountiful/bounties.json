@@ -1,0 +1,597 @@
+[
+  {
+    "content": "minecraft:dirt",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 5,
+    "weight": 100
+  },
+  {
+    "content": "iceandfire:ash",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "botania:altgrass:0",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "botania:altgrass:1",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "botania:altgrass:2",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "botania:altgrass:3",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "botania:altgrass:4",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "botania:altgrass:5",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:stone",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 10,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:cobblestone",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 7,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:fish",
+    "amount": {
+      "min": 2,
+      "max": 32
+    },
+    "unitWorth": 80,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:apple",
+    "amount": {
+      "min": 6,
+      "max": 64
+    },
+    "unitWorth": 50,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:bread",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 60,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:rotten_flesh",
+    "amount": {
+      "min": 1,
+      "max": 24
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:slime_ball",
+    "amount": {
+      "min": 1,
+      "max": 32
+    },
+    "unitWorth": 60,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:spider_eye",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:string",
+    "amount": {
+      "min": 1,
+      "max": 24
+    },
+    "unitWorth": 35,
+    "weight": 100
+  },
+  {
+    "content": "rats:block_of_cheese",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:sugar",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "rustic:chili_pepper",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "rustic:tomato",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "rustic:wildberries",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 30,
+    "weight": 100
+  },
+  {
+    "content": "rustic:olives",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 60,
+    "weight": 100
+  },
+  {
+    "content": "rustic:ironberries",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 60,
+    "weight": 100
+  },
+  {
+    "content": "horsepower:flour",
+    "amount": {
+      "min": 1,
+      "max": 64
+    },
+    "unitWorth": 30,
+    "weight": 100
+  },
+  {
+    "content": "astralsorcery:itemcraftingcomponent:2",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 750,
+    "weight": 100
+  },
+  {
+    "content": "arcanearchives:raw_quartz",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 50,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:leather",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 90,
+    "weight": 100
+  },
+  {
+    "content": "ancientwarfarenpc:food_bundle",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 120,
+    "weight": 100
+  },
+  {
+    "content": "ancientwarfare:steel_ingot",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 300,
+    "weight": 100
+  },
+  {
+    "content": "evilcraft:blood_waxed_coal",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 400,
+    "weight": 100
+  },
+	{
+    "content": "thaumcraft:brain",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 300,
+    "weight": 100
+  },
+	{
+    "content": "bewitchment:adders_fork",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 300,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:lizard_leg",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 300,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:toe_of_frog",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 300,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:tongue_of_dog",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 300,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:hoof",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 200,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:snake_venom",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 200,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:owlets_wing",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 300,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:ravens_feather",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 300,
+    "weight": 75
+  },
+	{
+    "content": "bewitchment:eye_of_old",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 450,
+    "weight": 75
+  },
+	{
+    "content": "thaumcraft:bottle_taint",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 300,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:zombie",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 120,
+    "weight": 300
+  },
+  {
+    "content": "entity:minecraft:husk",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 120,
+    "weight": 300
+  },
+  {
+    "content": "entity:minecraft:skeleton",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 140,
+    "weight": 250
+  },
+  {
+    "content": "entity:minecraft:stray",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 140,
+    "weight": 250
+  },
+  {
+    "content": "entity:bewitchment:feuerwurm",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 250,
+    "weight": 100
+  },
+  {
+    "content": "entity:bewitchment:black_dog",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "entity:bewitchment:demon",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 800,
+    "weight": 50
+  },
+  {
+    "content": "entity:bewitchment:demoness",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 800,
+    "weight": 50
+  },
+  {
+    "content": "entity:ebwizardry:remnant",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 75,
+    "weight": 200
+  },
+  {
+    "content": "entity:embers:ancient_golem",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:avaton",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 240,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:banshee",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 280,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:boneworm",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 260,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:foglet",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:vespa",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:parasite",
+    "amount": {
+      "min": 4,
+      "max": 8
+    },
+    "unitWorth": 25,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:ptera",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "entity:mod_lavacow:scarecrow",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 350,
+    "weight": 50
+  },
+  {
+    "content": "entity:mod_lavacow:undeadswine",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 450,
+    "weight": 50
+  },
+  {
+    "content": "entity:mod_lavacow:ithaqua",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 550,
+    "weight": 50
+  },
+  {
+    "content": "entity:mod_lavacow:zombiefrozen",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 120,
+    "weight": 300
+  },
+  {
+    "content": "entity:mod_lavacow:zombiemushroom",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 120,
+    "weight": 300
+  },
+  {
+    "content": "minecraft:potion",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 300,
+    "weight": 100,
+    "nbt_data": "{Potion: \"minecraft:healing\"}"
+  },
+  {
+    "content": "charm:bat_bucket",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 400,
+    "weight": 100
+  }
+]

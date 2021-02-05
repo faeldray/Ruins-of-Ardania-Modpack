@@ -1,0 +1,40 @@
+{
+	"name" : "roa:dungeon-jungle",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"JUNGLE"
+		],
+    "weight": 100
+	},
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-wet",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-sorcery",
+		"roa:spawners-jungle"    
+    ],
+		"tower":{
+			"type":"JUNGLE",
+			"theme":{ "base" : "JUNGLE"	}
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"SEWER"
+		},
+		{
+			"level":1,
+			"base":"JUNGLE"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"MOSSY"
+		}
+  ]
+}

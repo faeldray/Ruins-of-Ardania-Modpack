@@ -1,0 +1,14 @@
+{
+	"name" : "roa:spawner-biome-mountain",
+	"exclusive":true,
+	"spawners" : [
+		{
+			"potentials" : [
+				{"name" : "mod_lavacow:zombiefrozen"},
+				{"name" : "thaumcraft:brainyzombie"},
+				{"name" : "mod_lavacow:banshee"},
+			],
+			"level" : [1]
+		}
+	]
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "wizardrygolems:golem_leaf_minion",
+  "Registry ID": "wizardrygolems:golem_leaf_minion",
+  "Class": "com.windanesz.wizardrygolems.entity.living.EntityLeafGolemMinion"
+}

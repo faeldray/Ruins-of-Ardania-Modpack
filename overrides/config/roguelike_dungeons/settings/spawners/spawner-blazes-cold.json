@@ -1,0 +1,24 @@
+{
+  "name": "roa:spawner-blazes-cold",
+	"exclusive":true,
+  "spawners": [
+		{
+			"potentials" : [
+				{"name" : "ebwizardry:ice_wraith"}
+			],
+			"level" : [1]
+		},
+    {
+			"potentials": [
+				{"name": "ebwizardry:ice_wraith"}
+			],
+			"level": [3]
+		},
+    {
+			"potentials": [
+				{"name": "ebwizardry:ice_wraith"}
+			],
+			"level": [4]
+		}
+	]
+}

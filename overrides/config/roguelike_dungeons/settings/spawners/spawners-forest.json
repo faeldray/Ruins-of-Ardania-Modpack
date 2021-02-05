@@ -1,0 +1,10 @@
+{
+	"name" : "roa:spawners-forest",
+	"inherit" : [
+		"roa:spawner-base",
+		"roa:spawner-biome-forest",
+		"roa:spawner-crypt-mild",
+		"roa:spawner-magic",
+		"roa:spawner-bosses-forest"
+	]
+}

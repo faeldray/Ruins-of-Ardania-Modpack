@@ -1,0 +1,2 @@
+// Red - EvilCraft, Bewitchment
+recipes.addShaped(<iceandfire:dragonegg_red>, [[<evilcraft:blood_orb:1>, <evilcraft:burning_gem_stone>, <evilcraft:blood_orb:1>], [<ore:blockCoal>, <minecraft:dragon_egg>, <iceandfire:ash>], [<evilcraft:blood_orb:1>, <bewitchment:garnet>, <evilcraft:blood_orb:1>]]);

@@ -1,0 +1,212 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:title.png",
+            "posX" : -120,
+            "posY" : -111,
+            "width" : 239,
+            "height" : 111,
+            "alignment" : "center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -102,
+            "posY" : 0,
+            "width" : 100,
+            "height" : 20,
+						"normalTextColor" : 15057152,
+						"hoverTextColor" : 16777215,
+            "texture" : "mainmenu:buttons.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 2,
+            "posY" : 0,
+            "width" : 100,
+            "height" : 20,
+						"normalTextColor" : 15057152,
+						"hoverTextColor" : 16777215,
+            "texture" : "mainmenu:buttons.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods (#modsloaded#/#modsactive#)",
+            "posX" : -102,
+            "posY" : 24,
+            "width" : 100,
+            "height" : 20,
+						"normalTextColor" : 15057152,
+						"hoverTextColor" : 16777215,
+            "texture" : "mainmenu:buttons.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 2,
+            "posY" : 24,
+            "width" : 100,
+            "height" : 20,
+						"normalTextColor" : 15057152,
+						"hoverTextColor" : 16777215,
+            "texture" : "mainmenu:buttons.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 48,
+            "width" : 100,
+            "height" : 20,
+						"normalTextColor" : 15057152,
+						"hoverTextColor" : 16777215,
+            "texture" : "mainmenu:buttons.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : " ",
+            "posX" : -102,
+            "posY" : 48,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mainmenu:button-language.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "youtube":
+        {
+            "text" : " ",
+            "posX" : -76,
+            "posY" : 48,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "mainmenu:button-youtube.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.youtube.com/wolfdragonnet"
+            }
+        },
+        
+        "twitch":
+        {
+            "text" : " ",
+            "posX" : -50,
+            "posY" : 48,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "mainmenu:button-twitch.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.twitch.tv/faeldray"
+            }
+        },
+        
+        "discord":
+        {
+            "text" : " ",
+            "posX" : -24,
+            "posY" : 48,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "mainmenu:button-discord.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/wXTz5ZE"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : " ",
+            "posX" : -126,
+            "posY" : 48,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "§nForge #forgeversion# for Minecraft #mcversion#",
+            "hoverText" : "§nForge #forgeversion# for Minecraft #mcversion#",
+            "posX" : 3,
+            "posY" : -12,
+            "color" : -1,
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        }
+    },
+    
+    "other":
+    {       
+        "background":
+        {
+            "image" : "mainmenu:background.jpg",
+            "mode" : "fill"
+        }
+    }
+}

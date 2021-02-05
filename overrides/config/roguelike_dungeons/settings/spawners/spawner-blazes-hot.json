@@ -1,0 +1,24 @@
+{
+  "name": "roa:spawner-blazes-hot",
+	"exclusive":true,
+  "spawners": [
+		{
+			"potentials" : [
+				{"name" : "minecraft:blaze"}
+			],
+			"level" : [1]
+		},
+    {
+			"potentials": [
+				{"name": "minecraft:blaze"}
+			],
+			"level": [3]
+		},
+		{
+			"potentials" : [
+				{"name" : "minecraft:blaze"}
+			],
+			"level" : [4]
+		}
+	]
+}

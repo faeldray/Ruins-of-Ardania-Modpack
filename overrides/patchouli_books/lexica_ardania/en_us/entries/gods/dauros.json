@@ -1,0 +1,74 @@
+{
+	"name": "Dauros",
+	"icon": "aov:paladinstatue",
+	"category": "gods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "<i>God of Order and Law; Quadruplet of Fervus, Agrela, and Krypta; Son of Lunord and Helia.</><p>The Monks of old carried out Dauros's will with quiet efficiency. Unassuming in their plain robes, they were nonetheless deadly fighters. Learning discipline through many years of deep meditation and a vow of silence, Monks were able to harness"
+		},
+		{
+			"type": "text",
+			"text": "superhuman abilities such as great speed and powerful unarmed attacks. Dauros also granted the most dedicated Monks magical spells such as stoneskin and iron fists that they could use on themselves and others.<p>Paladins were also followers of Dauros. They did not adhere to the strict lifestyle of the Monks but they were no less devout to their cause."
+		},
+		{
+			"type": "text",
+			"text": "Clad in heavy armor and wielding mighty spells from Dauros, they were a force to be reckoned with and the bane of the lawless.<p>The slaughter of his Monks and the defeat of his Paladins during The Fall was utterly devastating to Dauros. Always the stoic god, he did not lash out in anger, but instead he channeled his righteous fury into a single artifact, the <item>Angelic Statue</>. Realizing its potential as a conduit straight to the divine, he reached out"
+		},
+		{
+			"type": "text",
+			"text":  "to several of his kin to forge alliances with them and offered the Statue for them to use as well. The Angelic Statue was duplicated into many and each was given the ability to be infused with the power of a particular deity."
+		},
+		{
+			"type": "crafting",
+			"text": "To come into the posession of an Angelica Statue, one must first lay out some common stones in such a pattern and Dauros will transform them into an <thing>unattuned Statue</>. From there, it can be augmented to create different attuned Statues.",
+			"recipe": "aov:angelicstatue"
+		},
+		{
+			"type": "crafting",
+			"text": "The <item>Paladin Statue</> is attuned to Dauros himself, providing abilities that increase the Paladin's chance to dodge, as well as additional benefits when a shield is equipped.",
+			"recipe": "aov:paladinstatue"
+			},
+		{
+			"type": "crafting",
+			"text": "The <item>Cleric Statue</> is attuned to <a='gods/agrela'>Agrela</a>, who has always been a close ally of his. It is through this statue that the Healers of old are now able to access their powers.",
+			"recipe": "aov:clericstatue",
+			"anchor": "AOVcleric"
+		},
+		{
+			"type": "crafting",
+			"text": "The <item>Favored Soul Statue</> is attuned to <a='gods/helia'>Helia</a> and infuses the user with the searing power of the sun. Adventurers who follow this path can wield spells with devastating power and have a tendency towards more offensive combat tactics.",
+			"recipe": "aov:favoredsoulstatue",
+			"anchor": "AOVfavored"
+		},
+		{
+			"type": "crafting",
+			"text": "The <item>Astrologian Statue</> is attuned to <a='gods/lunord'>Lunord</a> and provides the user with cards that can be casted for magical spells, for both the caster and their allies. The cards are affected by the alignment of celestial bodies, making them powerful but also random.",
+			"recipe": "aov:astrostatue",
+			"anchor": "AOVastro"
+		},
+		{
+			"type": "crafting",
+			"text": "The <item>Druidic Statue</> is attuned to <a='gods/fervus'>Fervus</a> and focuses on balance. Druids are very flexible, being able to choose between many abilities and spells or they can specialize on a certain role. However they must remain <thing>Centered</> to use their abilities.",
+			"recipe": "aov:druidstatue",
+			"anchor": "AOVdruid"
+		},
+		{
+			"type": "crafting",
+			"text": "Beginner Druids will find that in order to remain <thing>Centered</>, they must use tools and armor made of <idea>wood, leather, bone, or chitin</>. <item>Handwraps</> are also useable and can be enchanted as well.",
+			"recipe": "aov:handwraps"
+		},
+		{
+			"type": "text",
+			"text": "After gaining more power through Fervus, Druids will be able to remain <thing>Centered</> while wearing <item>Wildwood or Sylvan armor</>, and using <item>Living tools and weapons</>. Special allowances have also been made for the <item>mattock</>."
+		},
+		{
+			"type": "text",
+			"text": "It is unfortunate that Monks are now a thing of the past. However, a new order rose out of its ashes, the <thing>Order of Psi</>. This study of programming (AKA coding), which had been lost for centuries, was discovered to hold powers very similar to that of Monks. In hindsight, this should have been obvious, since it is well known that programming is the most orderly field of study. Thus those who use it gain Dauros's favor."
+		},
+		{
+			"type": "text",
+			"text": "And so it was that the <thing>Coding Monks of Psi</> have been able to engrave functions onto specially-made items. These items can be worn and wielded to great effect, allowing the creator to cast spells of their own making. <ooc>(The keybind to access the Psi tutorial is <key='psimisc.keybind'>.)</>"
+		}
+	]
+}

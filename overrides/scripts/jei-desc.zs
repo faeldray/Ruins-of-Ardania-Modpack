@@ -1,0 +1,4 @@
+mods.jei.JEI.addDescription(<terraqueous:hay:0>,"Can be transmutated into a Sponge using the Transmutation ritual from Roots.");
+mods.jei.JEI.addDescription(<minecraft:sponge:0>,"Can be made by using the Transmutation ritual from Roots on a Hay Block.");
+
+mods.jei.JEI.addDescription(<charm:charged_emerald>,"If you are holding an emerald and are struck by lightning, the emerald will become charged and you will take no damage.","Right-click a Charged Emerald to throw it, creating a lightning strike at the point of impact. Charged emeralds can also be fired by a dispenser.","Holding a stack of emeralds while being struck by lightning charges more in one go.");

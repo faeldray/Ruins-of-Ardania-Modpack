@@ -1,0 +1,41 @@
+{
+	"name" : "roa:dungeon-forest",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+      "FOREST",
+      "BIRCH_FOREST"
+    ],
+    "weight": 100
+  },
+	"inherit":[
+		"roa:loot",
+		"roa:rooms-hot",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-nature",
+		"roa:spawners-forest"    
+    ],
+		"tower":{
+			"type":"TREE",
+			"theme":{ "base" : "DARKOAK"	}
+    },
+	"themes":[
+		{
+			"level":0,
+			"base":"DARKHALL"
+		},
+		{
+			"level":1,
+			"base":"DARKOAK"
+		},
+		{
+			"level":2,
+			"base":"CRYPT"
+		},
+		{
+			"level" : 4,
+			"base":"MUDDY"
+		}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"name" : "roa:dungeon-any",
+	"exclusive" : true,
+	"criteria" : {
+    "weight": 1
+  },
+	"inherit":[
+		"roa:loot",
+		"builtin:rooms",
+		"builtin:segments",
+		"builtin:layout",
+		"roa:theme-magic-sorcery",
+		"roa:spawners-plains"    
+    ],
+		"tower":{
+			"type":"RUIN",
+			"theme":{ "base" : "TOWER"	}
+    }
+}
