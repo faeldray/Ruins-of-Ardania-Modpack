@@ -21,10 +21,10 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "COLD",
-    "SNOWY",
-    "HILLS",
+    "FOREST",
     "CONIFEROUS",
-    "FOREST"
+    "SNOWY",
+    "HILLS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -66,7 +66,7 @@
     },
     {
       "Entity Class": "net.chococraft.common.entities.EntityChocobo",
-      "Weight": 0,
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 3
     },
@@ -218,7 +218,7 @@
     },
     {
       "Entity Class": "vazkii.quark.world.entity.EntityStoneling",
-      "Weight": 80,
+      "Weight": 90,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

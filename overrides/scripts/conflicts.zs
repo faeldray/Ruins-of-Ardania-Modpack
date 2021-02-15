@@ -39,18 +39,6 @@ recipes.addShaped("ct_blockcraftery_block", <blockcraftery:editable_block> * 2, 
 recipes.remove(<doggytalents:dog_bath>);
 recipes.addShaped("ct_dogbath", <doggytalents:dog_bath>, [[null, null, null], [<minecraft:iron_ingot>, <minecraft:water_bucket>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
 
-//Earthworks drystone VS Multistorage stone storage
-//recipes.remove(<earthworks:block_dry_stone>);
-//recipes.addShaped("ct_earthworks_drystone", <earthworks:block_dry_stone> * 8, [[<quark:sturdy_stone>, <quark:sturdy_stone>, <quark:sturdy_stone>], [<quark:sturdy_stone>, null, <quark:sturdy_stone>], [<quark:sturdy_stone>, <quark:sturdy_stone>, <quark:sturdy_stone>]]);
-
-// Embers silver pick VS Bewitchment silver pick
-//recipes.remove(<embers:pickaxe_silver>);
-//recipes.addShaped("ct_embers_silver_pick", <embers:pickaxe_silver>, [[null, <ore:ingotSilver>, <ore:ingotSilver>], [null, <ore:stickWood>, <ore:ingotSilver>], [<ore:stickWood>, null, null]]);
-
-// Quark iron plate VS MCA matchmaker ring
-//recipes.remove(<quark:iron_plate:0>);
-//recipes.addShapeless("ct_quark_iron_plate", <quark:iron_plate:0> * 4, [<ore:ingotIron>, <ore:earthworksHammer>.reuse()]);
-
 // Quark stained planks VS Rustic painted planks
 recipes.remove(<quark:stained_planks:0>);
 recipes.remove(<quark:stained_planks:1>);
@@ -85,10 +73,6 @@ recipes.addShaped("ct_quark_stained_wood_green", <quark:stained_planks:13> * 8, 
 recipes.addShaped("ct_quark_stained_wood_red", <quark:stained_planks:14> * 8, [[<ore:dyeRed>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
 recipes.addShaped("ct_quark_stained_wood_black", <quark:stained_planks:15> * 8, [[<ore:dyeBlack>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
 
-// Bibliocraft Monocle VS Various Oddities Magnifying Glass
-// recipes.removeShaped(<varodd:spyglass:1>);
-// recipes.addShaped("ct_varodd_magnifying_glass", <varodd:spyglass:1>, [[null, <ore:nuggetGold>, null], [<ore:nuggetGold>, <ore:paneGlass>, <ore:nuggetGold>], [<ore:stickWood>, <ore:nuggetGold>, null]]);
-
 // Thaumcraft Block of Flesh VS Charm Rotten Flesh Block
 recipes.removeShaped(<charm:rotten_flesh_block>);
 recipes.addShaped("ct_charm_rotten_flesh_block", <charm:rotten_flesh_block>, [[null, <ore:materialFlesh>, null], [<ore:materialFlesh>, <ore:dirt>, <ore:materialFlesh>], [null, <ore:materialFlesh>, null]]);
@@ -119,35 +103,3 @@ recipes.removeShaped(<mysticalworld:amethyst_block>);
 // Cathedral dwemer door VS dwemer pillar
 recipes.removeShaped(<cathedral:cathedral_pillar_various:12>);
 recipes.addShaped("ct_cathedral_pillar_dwemer", <cathedral:cathedral_pillar_various:12> * 4, [[<cathedral:dwemer_block_carved:3>], [<cathedral:dwemer_block_carved:3>], [<cathedral:dwemer_block_carved:3>]]);
-
-// Iron Age Furniture chairs VS Rustic chairs (+ addons)
-/* recipes.remove(<cathedral:cathedral_pillar_various:12>);
-recipes.remove(<rustic:chair_acacia>);
-recipes.remove(<rustic:chair_big_oak>);
-recipes.remove(<rustic:chair_birch>);
-recipes.remove(<rustic:chair_ironwood>);
-recipes.remove(<rustic:chair_jungle>);
-recipes.remove(<rustic:chair_oak>);
-recipes.remove(<rustic:chair_olive>);
-recipes.remove(<rustic:chair_spruce>);
-recipes.remove(<rusticthaumaturgy:chair_greatwood>);
-recipes.remove(<rusticthaumaturgy:chair_silverwood>);
-recipes.remove(<rusticwitchcraft:chair_cypress>);
-recipes.remove(<rusticwitchcraft:chair_dragons_blood>);
-recipes.remove(<rusticwitchcraft:chair_elder>);
-recipes.remove(<rusticwitchcraft:chair_juniper>);
-recipes.addShaped("ct_rustic_chair_acacia", <rustic:chair_acacia> * 4, [[<minecraft:planks:4>, null, null], [<minecraft:planks:4>, <minecraft:wooden_slab:4>, <minecraft:wooden_slab:4>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_big_oak", <rustic:chair_big_oak> * 4, [[<minecraft:planks:5>, null, null], [<minecraft:planks:5>, <minecraft:wooden_slab:5>, <minecraft:wooden_slab:5>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_birch", <rustic:chair_birch> * 4, [[<minecraft:planks:2>, null, null], [<minecraft:planks:2>, <minecraft:wooden_slab:2>, <minecraft:wooden_slab:2>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_ironwood", <rustic:chair_ironwood> * 4, [[<rustic:planks:1>, null, null], [<rustic:planks:1>, <rustic:ironwood_slab_item>, <rustic:ironwood_slab_item>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_jungle", <rustic:chair_jungle> * 4, [[<minecraft:planks:3>, null, null], [<minecraft:planks:3>, <minecraft:wooden_slab:3>, <minecraft:wooden_slab:3>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_oak", <rustic:chair_oak> * 4, [[<minecraft:planks:0>, null, null], [<minecraft:planks:0>, <minecraft:wooden_slab:0>, <minecraft:wooden_slab:0>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_olive", <rustic:chair_olive> * 4, [[<rustic:planks:0>, null, null], [<rustic:planks:0>, <rustic:olive_slab_item>, <rustic:olive_slab_item>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_spruce", <rustic:chair_spruce> * 4, [[<minecraft:planks:1>, null, null], [<minecraft:planks:1>, <minecraft:wooden_slab:1>, <minecraft:wooden_slab:1>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_greatwood", <rusticthaumaturgy:chair_greatwood> * 4, [[<thaumcraft:plank_greatwood>, null, null], [<thaumcraft:plank_greatwood>, <thaumcraft:slab_greatwood>, <thaumcraft:slab_greatwood>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_silverwood", <rusticthaumaturgy:chair_silverwood> * 4, [[<thaumcraft:plank_silverwood>, null, null], [<thaumcraft:plank_silverwood>, <thaumcraft:slab_silverwood>, <thaumcraft:slab_silverwood>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_cypress", <rusticwitchcraft:chair_cypress> * 4, [[<bewitchment:cypress_planks>, null, null], [<bewitchment:cypress_planks>, <bewitchment:cypress_wood_slab>, <bewitchment:cypress_wood_slab>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_dragons_blood", <rusticwitchcraft:chair_dragons_blood> * 4, [[<bewitchment:dragons_blood_planks>, null, null], [<bewitchment:dragons_blood_planks>, <bewitchment:dragons_blood_slab>, <bewitchment:dragons_blood_slab>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_elder", <rusticwitchcraft:chair_elder> * 4, [[<bewitchment:elder_planks>, null, null], [<bewitchment:elder_planks>, <bewitchment:elder_wood_slab>, <bewitchment:elder_wood_slab>], [<ore:stick>, null, <ore:stick>]]);
-recipes.addShaped("ct_rustic_chair_juniper", <rusticwitchcraft:chair_juniper> * 4, [[<bewitchment:juniper_planks>, null, null], [<bewitchment:juniper_planks>, <bewitchment:juniper_wood_slab>, <bewitchment:juniper_wood_slab>], [<ore:stick>, null, <ore:stick>]]);
-*/

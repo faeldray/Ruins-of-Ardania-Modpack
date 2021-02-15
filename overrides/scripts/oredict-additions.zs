@@ -5,9 +5,6 @@
 <ore:earthworksHammer>.add(<earthworks:tool_iron_hammer:*>);
 <ore:earthworksHammer>.add(<earthworks:tool_wood_hammer:*>);
 
-// Crimson Iron Ore
-//<ore:oreCrimsonIron>.add(<silentgear:crimson_iron_ore>);
-
 // Tallow
 <ore:tallow>.add(<atlcraft:atlcraft_tallow>);
 <ore:tallow>.remove(<rustic:beeswax>);
@@ -59,7 +56,6 @@
 <ore:listAllSeed>.add(<minecraft:beetroot_seeds>);
 <ore:listAllSeed>.add(<minecraft:melon_seeds>);
 <ore:listAllSeed>.add(<minecraft:wheat_seeds>);
-//<ore:listAllSeed>.add(<silentgear:flaxseeds>);
 <ore:listAllSeed>.add(<rustic:tomato_seeds>);
 <ore:listAllSeed>.add(<rustic:grape_stem>);
 <ore:listAllSeed>.add(<rustic:chili_pepper_seeds>);

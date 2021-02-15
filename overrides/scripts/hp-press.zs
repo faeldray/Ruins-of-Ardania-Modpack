@@ -2,7 +2,6 @@
 mods.horsepower.Press.add(<evilcraft:werewolf_flesh> * 2, <minecraft:leather>);
 mods.horsepower.Press.add(<minecraft:blaze_powder> * 2, <minecraft:blaze_rod>);
 mods.horsepower.Press.add(<mowziesmobs:glowing_jelly> * 2, <minecraft:glowstone_dust>);
-//mods.horsepower.Press.add(<gravestone-extended:gs_ooze>, <minecraft:slime_ball>);
 
 mods.horsepower.Press.add(<minecraft:apple> * 4, <liquid:applejuice> * 1000);
 mods.horsepower.Press.add(<rustic:grapes> * 4, <liquid:grapejuice> * 1000);

@@ -85,7 +85,7 @@
 		},
 		{
 			"type": "text",
-			"text": "<li>A hoe will break grass in a 3x3 area. A diamond hoe will break it in a 5x5.<li>Grass is no longer the bane of your combat existence! You can now hit mobs behind grass.<li>Withers can only be spawned in the nether."
+			"text": "<li>Grass is no longer the bane of your combat existence! You can now hit mobs behind grass.<li>Withers can only be spawned in the nether.<li>Creepers can be sheared once for a little extra gunpowder. They still have enough to explode though."
 		}
 	]
 }

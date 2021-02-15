@@ -1,6 +1,6 @@
 import mods.futuremc.SmithingTable;
 
-SmithingTable.addRecipe(<embers:brick_caminite>, <arcanearchives:radiant_dust>, <embers:isolated_materia> * 2);
+SmithingTable.addRecipe(<arcanearchives:radiant_dust>, <embers:brick_caminite>, <embers:isolated_materia> * 2);
 
 SmithingTable.addRecipe(<ebwizardry:wizard_hat>, <contenttweaker:material_part:0>* 6, <hexxitgear:sage_helmet>);
 SmithingTable.addRecipe(<ebwizardry:wizard_robe>, <contenttweaker:material_part:0>* 9, <hexxitgear:sage_chest>);

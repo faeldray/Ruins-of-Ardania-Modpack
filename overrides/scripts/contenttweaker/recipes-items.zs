@@ -3,10 +3,6 @@ recipes.removeShaped(<roots:wildewheet_bread>);
 
 mods.horsepower.Grindstone.add(<roots:wildewheet>, <contenttweaker:wilde_flour> * 2, 8);
 
-//recipes.addShaped("cnt_wilde_dough", <contenttweaker:wilde_dough> * 8, [[<contenttweaker:wilde_flour>, <contenttweaker:wilde_flour>, <contenttweaker:wilde_flour>], [<contenttweaker:wilde_flour>, <minecraft:water_bucket> | <ore:bottleWater> | <evilcraft:bucket_eternal_water>.reuse() | <terraqueous:water_pearl>.reuse() | <thaumicrestoration:item_bucket>.reuse(), <contenttweaker:wilde_flour>], [<contenttweaker:wilde_flour>, <contenttweaker:wilde_flour>, <contenttweaker:wilde_flour>]]);
-
-//recipes.addShapeless("cnt_wilde_dough_bottle", <contenttweaker:wilde_dough> * 3, [<contenttweaker:wilde_flour>, <contenttweaker:wilde_flour>, <contenttweaker:wilde_flour>, <minecraft:potion>.withTag({Potion: "minecraft:water"}).transformReplace(<minecraft:glass_bottle:0>)]);
-
 mods.cyclicmagic.Hydrator.addRecipe(<contenttweaker:wilde_dough>, [<contenttweaker:wilde_flour>], 100);
 
 furnace.addRecipe(<roots:wildewheet_bread>, <contenttweaker:wilde_dough>, 0.125000);

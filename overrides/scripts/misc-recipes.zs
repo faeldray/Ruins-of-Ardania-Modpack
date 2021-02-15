@@ -30,6 +30,14 @@ recipes.replaceAllOccurences(<minecraft:leather>, <ore:leather>, <*>.only(functi
     return !isNull(item) & !<minecraft:saddle>.matches(item);
 }));
 
+// Replaces wooden chest with chest oredict
+recipes.replaceAllOccurences(<minecraft:chest>, <ore:chestWood>, <*>.only(function(item) {
+    return !isNull(item) & !<botanicadds:mana_tesseract>.matches(item) & !<littletiles:ltstorageblocktile>.matches(item) & !<minecraft:trapped_chest>.matches(item);
+}));
+
+// Wooden chest -> oak chest
+recipes.addShapeless("ct_wood_chest", <minecraft:chest>, [<ore:chestWood>]);
+
 // Add recipe for Lexica Ardania
 recipes.addShaped("ct_lexica_ardania", <patchouli:guide_book>.withTag({"patchouli:book": "patchouli:lexica_ardania"}), [[<minecraft:book>, <minecraft:paper>], [<minecraft:paper>, null]]);
 
@@ -46,7 +54,7 @@ recipes.addShaped("ct_if_tidearrow", <iceandfire:sea_serpent_arrow> * 2, [[<ore:
 
 // Iron plates
 recipes.remove(<thaumcraft:plate:1>);
-recipes.addShapeless("ct_iron_plate", <thaumcraft:plate:1>, [<embers:plate_iron>, <embers:tinker_hammer>.anyDamage().reuse()]);
+recipes.addShapeless("ct_iron_plate", <thaumcraft:plate:1>, [<embers:plate_iron>, <embers:tinker_hammer>.reuse()]);
 
 // Saddle
 recipes.addShaped("ct_saddle", <minecraft:saddle>, [[<ore:leather>, <ore:leather>, <ore:leather>], [<ore:leather>, <ore:ingotIron>, <ore:leather>], [<ore:ingotIron>, null, <ore:ingotIron>]]);

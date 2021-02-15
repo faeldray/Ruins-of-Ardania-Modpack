@@ -21,12 +21,12 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "COLD",
-    "THEMED_TREES",
-    "DENSE",
-    "RARE",
+    "FOREST",
     "MEGA_TAIGA_SPRUCE_TREES",
+    "THEMED_TREES",
     "HILLS",
-    "FOREST"
+    "DENSE",
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -68,7 +68,7 @@
     },
     {
       "Entity Class": "net.chococraft.common.entities.EntityChocobo",
-      "Weight": 0,
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 3
     },
@@ -208,7 +208,7 @@
     },
     {
       "Entity Class": "vazkii.quark.world.entity.EntityStoneling",
-      "Weight": 80,
+      "Weight": 90,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

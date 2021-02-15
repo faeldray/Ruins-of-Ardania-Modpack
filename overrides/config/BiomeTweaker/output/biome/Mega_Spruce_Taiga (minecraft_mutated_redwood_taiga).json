@@ -21,11 +21,11 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "COLD",
+    "FOREST",
+    "MEGA_TAIGA_SPRUCE_TREES",
     "THEMED_TREES",
     "DENSE",
-    "RARE",
-    "MEGA_TAIGA_SPRUCE_TREES",
-    "FOREST"
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -153,7 +153,7 @@
     },
     {
       "Entity Class": "vazkii.quark.world.entity.EntityStoneling",
-      "Weight": 80,
+      "Weight": 90,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

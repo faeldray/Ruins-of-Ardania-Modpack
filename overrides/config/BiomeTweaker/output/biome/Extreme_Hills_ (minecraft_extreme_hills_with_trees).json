@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MOUNTAIN",
     "COLD",
-    "SNOWY",
+    "FOREST",
     "SPARSE",
-    "FOREST"
+    "SNOWY",
+    "MOUNTAIN"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -146,7 +146,7 @@
     },
     {
       "Entity Class": "vazkii.quark.world.entity.EntityStoneling",
-      "Weight": 80,
+      "Weight": 90,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

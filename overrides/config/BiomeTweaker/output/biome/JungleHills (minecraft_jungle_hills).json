@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "DENSE",
     "JUNGLE",
+    "WET",
+    "HOT",
     "HILLS",
-    "HOT"
+    "DENSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -66,7 +66,7 @@
     },
     {
       "Entity Class": "net.chococraft.common.entities.EntityChocobo",
-      "Weight": 0,
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 3
     },
@@ -218,7 +218,7 @@
     },
     {
       "Entity Class": "vazkii.quark.world.entity.EntityStoneling",
-      "Weight": 80,
+      "Weight": 90,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

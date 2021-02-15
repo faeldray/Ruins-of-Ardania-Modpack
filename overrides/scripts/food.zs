@@ -19,10 +19,6 @@ recipes.addShapeless("ct_mc_pumpkin_pie", <minecraft:pumpkin_pie> * 2, [<minecra
 // Remove HP dough recipe
 recipes.removeShapeless(<horsepower:dough>);
 
-// Improve dough recipe
-//recipes.addShaped("ct_hp_dough", <horsepower:dough> * 8, [[<ore:foodFlour>, <ore:foodFlour>, <ore:foodFlour>], [<ore:foodFlour>, <minecraft:water_bucket> | <evilcraft:bucket_eternal_water>.reuse() | <terraqueous:water_pearl>.reuse() | <thaumicrestoration:item_bucket>.reuse(), <ore:foodFlour>], [<ore:foodFlour>, <ore:foodFlour>, <ore:foodFlour>]]);
-//recipes.addShapeless("ct_hp_dough_bottle", <horsepower:dough> * 3, [<ore:foodFlour>, <ore:foodFlour>, <ore:foodFlour>, <minecraft:potion>.withTag({Potion: "minecraft:water"}).transformReplace(<minecraft:glass_bottle:0>)]);
-
 // Remove raw pickled gysahl recipe
 recipes.removeShapeless(<chococraft:pickled_gysahl_raw>);
 

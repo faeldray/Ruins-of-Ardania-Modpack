@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Ruins of Ardania",
-  "version": "0.3",
+  "version": "0.4",
   "author": "faeldray",
   "files": [
     {
@@ -150,6 +150,11 @@
       "required": true
     },
     {
+      "projectID": 237701,
+      "fileID": 2560638,
+      "required": true
+    },
+    {
       "projectID": 311383,
       "fileID": 2853945,
       "required": true
@@ -176,7 +181,7 @@
     },
     {
       "projectID": 258205,
-      "fileID": 3153841,
+      "fileID": 3204340,
       "required": true
     },
     {
@@ -241,7 +246,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 3190373,
+      "fileID": 3200206,
       "required": true
     },
     {
@@ -436,7 +441,7 @@
     },
     {
       "projectID": 310059,
-      "fileID": 3193121,
+      "fileID": 3194413,
       "required": true
     },
     {
@@ -566,7 +571,7 @@
     },
     {
       "projectID": 285439,
-      "fileID": 3187627,
+      "fileID": 3203994,
       "required": true
     },
     {
@@ -821,12 +826,12 @@
     },
     {
       "projectID": 389665,
-      "fileID": 3067998,
+      "fileID": 3194993,
       "required": true
     },
     {
       "projectID": 257814,
-      "fileID": 3173840,
+      "fileID": 3198625,
       "required": true
     },
     {
@@ -851,7 +856,7 @@
     },
     {
       "projectID": 257818,
-      "fileID": 3193098,
+      "fileID": 3199056,
       "required": true
     },
     {
@@ -921,7 +926,7 @@
     },
     {
       "projectID": 243707,
-      "fileID": 3189770,
+      "fileID": 3196565,
       "required": true
     },
     {
@@ -971,7 +976,7 @@
     },
     {
       "projectID": 224602,
-      "fileID": 2766432,
+      "fileID": 3199040,
       "required": true
     },
     {
@@ -1016,7 +1021,7 @@
     },
     {
       "projectID": 304675,
-      "fileID": 2976470,
+      "fileID": 3200728,
       "required": true
     },
     {
@@ -1086,7 +1091,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 3190356,
+      "fileID": 3200193,
       "required": true
     },
     {

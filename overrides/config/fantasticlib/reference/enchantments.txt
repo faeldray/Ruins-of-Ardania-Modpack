@@ -55,10 +55,10 @@ evilcraft:vengeance
 mod_lavacow:poisonous
 mod_lavacow:lifesteal
 mod_lavacow:corrosive
-futuremc:channeling
-futuremc:impaling
 futuremc:loyalty
+futuremc:channeling
 futuremc:riptide
+futuremc:impaling
 livingenchantment:enchantment.living
 parry:parry
 spartanweaponry:throwing_range

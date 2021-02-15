@@ -6,7 +6,6 @@ Pacifist.addEntity(<entity:bewitchment:owl>);
 Pacifist.addEntity(<entity:bewitchment:raven>);
 Pacifist.addEntity(<entity:bewitchment:toad>);
 Pacifist.addEntity(<entity:chococraft:chocobo>);
-//Pacifist.addEntity(<entity:gravestone-extended:gsraven>);
 Pacifist.addEntity(<entity:jaff:clownfish>);
 Pacifist.addEntity(<entity:jaff:cod>);
 Pacifist.addEntity(<entity:jaff:pufferfish>);

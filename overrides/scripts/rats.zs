@@ -21,7 +21,6 @@ mods.rats.recipes.addChefRatRecipe(<mysticalworld:assorted_seeds>, <mysticalworl
 mods.rats.recipes.addChefRatRecipe(<mysticalworld:aubergine>, <mysticalworld:cooked_aubergine>);
 mods.rats.recipes.addChefRatRecipe(<mysticalworld:raw_squid>, <mysticalworld:cooked_squid>);
 mods.rats.recipes.addChefRatRecipe(<mysticalworld:venison>, <mysticalworld:cooked_venison>);
-//mods.rats.recipes.addChefRatRecipe(<minecraft:carrot>, <pigarmy:cooked_carrot>);
 mods.rats.recipes.addChefRatRecipe(<quark:crab_leg>, <quark:cooked_crab_leg>);
 mods.rats.recipes.addChefRatRecipe(<rats:raw_rat>, <rats:cooked_rat>);
 mods.rats.recipes.addChefRatRecipe(<roots:pereskia_bulb>, <roots:cooked_pereskia>);

@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "PLAINS",
+    "FOREST",
     "WET",
     "SPARSE",
-    "FOREST",
-    "LUSH"
+    "LUSH",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -54,7 +54,7 @@
     },
     {
       "Entity Class": "net.chococraft.common.entities.EntityChocobo",
-      "Weight": 0,
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 3
     },
